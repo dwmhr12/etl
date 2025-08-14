@@ -14,9 +14,6 @@
 - `chunking.py` → pemecahan data menjadi bagian lebih kecil  
 - `generate_embedding.py` → membuat vektor embedding  
 - `insert_to_milvus.py` → menyimpan data embedding ke Milvus  
-- `milvus.py`, `milvus_utils.py` → utilitas untuk Milvus  
-- `hybrid_search.py` → pencarian berbasis embedding  
-
 ---
 
 ## 🔹 Prasyarat
