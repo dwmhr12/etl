@@ -1,5 +1,5 @@
 
-## 🔹 Struktur Folder
+## Struktur Folder
 
 - airflow/          # Airflow DAGs, logs, config
 - config/           # Docker-compose dan volume untuk Milvus
@@ -16,7 +16,7 @@
 - `insert_to_milvus.py` → menyimpan data embedding ke Milvus  
 ---
 
-## 🔹 Prasyarat
+## Prasyarat
 
 1. **Python 3.10+**  
 2. **Virtual Environment** (menggunakan `venv`)  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔹 Instalasi
+## Instalasi
 
 Clone repository:
 
@@ -37,7 +37,7 @@ Install dependencies:
 
 ---
 
-## 🔹 Menjalankan Milvus
+## Menjalankan Milvus
 
 Masuk ke folder `config`:
 
@@ -60,7 +60,7 @@ Cek status container:
 
 ---
 
-## 🔹 Workflow Eksekusi Script
+## Workflow Eksekusi Script
 
 Urutan script Python yang direkomendasikan:
 
@@ -80,7 +80,7 @@ Contoh menjalankan script:
 
 ---
 
-## 🔹 Airflow
+## Airflow
 
 Airflow digunakan untuk orkestrasi pipeline. Folder `airflow/` berisi:
 
@@ -97,6 +97,6 @@ Jalankan Airflow:
 
 ---
 
-## 🔹 Catatan 
+## Catatan 
 - Pastikan Milvus sudah berjalan sebelum menjalankan `insert_to_milvus.py`  
 - Gunakan Airflow untuk menjadwalkan dan memonitor workflow otomatis
