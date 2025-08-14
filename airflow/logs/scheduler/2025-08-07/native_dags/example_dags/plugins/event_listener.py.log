@@ -1,0 +1,310 @@
+[2025-08-07T15:45:01.734+0700] {processor.py:157} INFO - Started process (PID=113197) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:45:01.735+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:45:01.736+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:01.736+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:45:01.739+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:45:01.751+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.020 seconds
+[2025-08-07T15:46:12.333+0700] {processor.py:157} INFO - Started process (PID=113553) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:46:12.337+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:46:12.339+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:12.338+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:46:12.345+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:46:12.384+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.060 seconds
+[2025-08-07T15:47:05.532+0700] {processor.py:157} INFO - Started process (PID=113842) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:47:05.538+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:47:05.544+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:05.543+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:47:05.557+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:47:05.629+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.121 seconds
+[2025-08-07T15:47:52.815+0700] {processor.py:157} INFO - Started process (PID=114056) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:47:52.818+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:47:52.819+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:52.819+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:47:52.821+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:47:52.830+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.017 seconds
+[2025-08-07T15:48:29.978+0700] {processor.py:157} INFO - Started process (PID=114272) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:48:29.980+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:48:29.981+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:29.981+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:48:29.984+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:48:29.995+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.020 seconds
+[2025-08-07T15:49:30.459+0700] {processor.py:157} INFO - Started process (PID=114605) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:49:30.496+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:49:30.522+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:30.514+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:49:30.585+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:49:30.840+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.490 seconds
+[2025-08-07T15:50:49.643+0700] {processor.py:157} INFO - Started process (PID=115008) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:50:49.646+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:50:49.649+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:50:49.648+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:50:49.658+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:50:49.689+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.059 seconds
+[2025-08-07T15:51:26.672+0700] {processor.py:157} INFO - Started process (PID=115232) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:51:26.679+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:51:26.680+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:26.679+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:51:26.683+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:51:26.694+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.025 seconds
+[2025-08-07T15:52:50.419+0700] {processor.py:157} INFO - Started process (PID=115600) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:52:50.433+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:52:50.437+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:52:50.435+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:52:50.446+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:52:50.510+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.110 seconds
+[2025-08-07T15:53:53.667+0700] {processor.py:157} INFO - Started process (PID=115893) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:53:53.673+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:53:53.678+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:53.676+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:53:53.686+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:53:53.737+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.079 seconds
+[2025-08-07T15:54:54.377+0700] {processor.py:157} INFO - Started process (PID=116183) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:54:54.382+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:54:54.383+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:54:54.382+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:54:54.385+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:54:54.394+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.019 seconds
+[2025-08-07T15:55:40.341+0700] {processor.py:157} INFO - Started process (PID=116391) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:55:40.352+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:55:40.356+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:40.355+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:55:40.372+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:55:40.425+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.114 seconds
+[2025-08-07T15:56:23.368+0700] {processor.py:157} INFO - Started process (PID=116639) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:56:23.371+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:56:23.373+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:23.372+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:56:23.378+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:56:23.401+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.041 seconds
+[2025-08-07T15:56:58.318+0700] {processor.py:157} INFO - Started process (PID=116830) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:56:58.327+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:56:58.329+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:58.328+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:56:58.335+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:56:58.363+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.053 seconds
+[2025-08-07T15:58:23.442+0700] {processor.py:157} INFO - Started process (PID=117279) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:58:23.446+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:58:23.448+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:58:23.447+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:58:23.457+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:58:23.489+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2025-08-07T15:59:45.193+0700] {processor.py:157} INFO - Started process (PID=117667) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:59:45.201+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T15:59:45.205+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:59:45.203+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:59:45.217+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T15:59:45.262+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.084 seconds
+[2025-08-07T16:00:38.202+0700] {processor.py:157} INFO - Started process (PID=117957) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:00:38.208+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:00:38.209+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:00:38.209+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:00:38.213+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:00:38.230+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.032 seconds
+[2025-08-07T16:01:54.906+0700] {processor.py:157} INFO - Started process (PID=118285) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:01:54.917+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:01:54.934+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:01:54.932+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:01:54.988+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:01:55.111+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.238 seconds
+[2025-08-07T16:03:38.855+0700] {processor.py:157} INFO - Started process (PID=118766) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:03:38.862+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:03:38.863+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:03:38.863+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:03:38.866+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:03:38.883+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.032 seconds
+[2025-08-07T16:04:48.690+0700] {processor.py:157} INFO - Started process (PID=119080) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:04:48.694+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:04:48.696+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:48.695+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:04:48.703+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:04:48.731+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.055 seconds
+[2025-08-07T16:05:39.227+0700] {processor.py:157} INFO - Started process (PID=119374) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:05:39.229+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:05:39.230+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:39.230+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:05:39.238+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:05:39.250+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.026 seconds
+[2025-08-07T16:07:08.761+0700] {processor.py:157} INFO - Started process (PID=119802) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:07:08.764+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:07:08.765+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:08.764+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:07:08.767+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:07:08.776+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.018 seconds
+[2025-08-07T16:08:28.102+0700] {processor.py:157} INFO - Started process (PID=120207) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:08:28.115+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:08:28.121+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:08:28.119+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:08:28.135+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:08:28.223+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.141 seconds
+[2025-08-07T16:09:40.493+0700] {processor.py:157} INFO - Started process (PID=120546) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:09:40.503+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:09:40.510+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:09:40.507+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:09:40.528+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:09:40.653+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.193 seconds
+[2025-08-07T16:10:21.179+0700] {processor.py:157} INFO - Started process (PID=120722) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:10:21.182+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:10:21.183+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:21.183+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:10:21.188+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:10:21.213+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.042 seconds
+[2025-08-07T16:11:16.597+0700] {processor.py:157} INFO - Started process (PID=121017) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:11:16.600+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:11:16.602+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:16.602+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:11:16.607+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:11:16.630+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.042 seconds
+[2025-08-07T16:12:05.587+0700] {processor.py:157} INFO - Started process (PID=121301) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:12:05.593+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:12:05.595+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:05.594+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:12:05.599+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:12:05.628+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.047 seconds
+[2025-08-07T16:12:53.819+0700] {processor.py:157} INFO - Started process (PID=121577) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:12:53.832+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:12:53.840+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:53.837+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:12:53.894+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:12:54.007+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.242 seconds
+[2025-08-07T16:13:41.383+0700] {processor.py:157} INFO - Started process (PID=121791) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:13:41.385+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:13:41.387+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:41.386+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:13:41.392+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:13:41.416+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.039 seconds
+[2025-08-07T16:14:32.656+0700] {processor.py:157} INFO - Started process (PID=122070) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:14:32.661+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:14:32.665+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:32.663+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:14:32.675+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:14:32.708+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.061 seconds
+[2025-08-07T16:15:39.304+0700] {processor.py:157} INFO - Started process (PID=122384) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:15:39.308+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:15:39.310+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:39.309+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:15:39.317+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:15:39.352+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2025-08-07T16:16:17.413+0700] {processor.py:157} INFO - Started process (PID=122619) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:16:17.421+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:16:17.424+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:16:17.423+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:16:17.430+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:16:17.462+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.056 seconds
+[2025-08-07T16:17:12.549+0700] {processor.py:157} INFO - Started process (PID=122865) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:17:12.552+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:17:12.554+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:17:12.553+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:17:12.560+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:17:12.582+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.041 seconds
+[2025-08-07T16:18:20.694+0700] {processor.py:157} INFO - Started process (PID=123226) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:18:20.700+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:18:20.704+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:20.703+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:18:20.717+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:18:20.776+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.105 seconds
+[2025-08-07T16:19:08.037+0700] {processor.py:157} INFO - Started process (PID=123460) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:19:08.042+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:19:08.047+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:19:08.045+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:19:08.059+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:19:08.142+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.123 seconds
+[2025-08-07T16:26:45.701+0700] {processor.py:157} INFO - Started process (PID=125375) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:26:45.707+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:26:45.710+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:26:45.709+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:26:45.716+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:26:45.753+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.062 seconds
+[2025-08-07T16:27:42.156+0700] {processor.py:157} INFO - Started process (PID=125663) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:27:42.158+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:27:42.159+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:42.158+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:27:42.163+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:27:42.174+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.022 seconds
+[2025-08-07T16:28:24.140+0700] {processor.py:157} INFO - Started process (PID=125847) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:28:24.144+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:28:24.147+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:24.146+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:28:24.154+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:28:24.193+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.065 seconds
+[2025-08-07T16:29:06.963+0700] {processor.py:157} INFO - Started process (PID=126047) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:29:06.965+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:29:06.967+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:06.966+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:29:06.971+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:29:06.989+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.032 seconds
+[2025-08-07T16:30:05.145+0700] {processor.py:157} INFO - Started process (PID=126328) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:30:05.147+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:30:05.149+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:05.148+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:30:05.153+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:30:05.176+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.038 seconds
+[2025-08-07T16:30:59.085+0700] {processor.py:157} INFO - Started process (PID=126596) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:30:59.089+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:30:59.090+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:59.089+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:30:59.093+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:30:59.107+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.026 seconds
+[2025-08-07T16:32:12.467+0700] {processor.py:157} INFO - Started process (PID=126954) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:32:12.597+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:32:12.617+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:32:12.602+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:32:12.720+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:32:12.989+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.619 seconds
+[2025-08-07T16:33:24.132+0700] {processor.py:157} INFO - Started process (PID=127226) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:33:24.138+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:33:24.142+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:24.140+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:33:24.152+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:33:24.204+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.089 seconds
+[2025-08-07T16:34:19.610+0700] {processor.py:157} INFO - Started process (PID=127456) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:34:19.613+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:34:19.614+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:34:19.614+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:34:19.619+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:34:19.638+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.035 seconds
+[2025-08-07T16:35:17.174+0700] {processor.py:157} INFO - Started process (PID=127704) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:35:17.177+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:35:17.179+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:17.178+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:35:17.184+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:35:17.209+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.045 seconds
+[2025-08-07T16:36:03.434+0700] {processor.py:157} INFO - Started process (PID=127892) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:36:03.436+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:36:03.437+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:03.437+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:36:03.440+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:36:03.452+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.022 seconds
+[2025-08-07T16:36:39.688+0700] {processor.py:157} INFO - Started process (PID=128071) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:36:39.692+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:36:39.694+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:39.693+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:36:39.697+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:36:39.711+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.027 seconds
+[2025-08-07T16:37:21.943+0700] {processor.py:157} INFO - Started process (PID=128219) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:37:21.947+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:37:21.950+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:21.949+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:37:21.955+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:37:21.982+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.046 seconds
+[2025-08-07T16:38:24.486+0700] {processor.py:157} INFO - Started process (PID=128482) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:38:24.497+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:38:24.504+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:24.501+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:38:24.517+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:38:24.613+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.161 seconds
+[2025-08-07T16:39:18.848+0700] {processor.py:157} INFO - Started process (PID=128695) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:39:18.854+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:39:18.856+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:39:18.855+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:39:18.860+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:39:18.882+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.039 seconds
+[2025-08-07T16:40:28.544+0700] {processor.py:157} INFO - Started process (PID=128974) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:40:28.553+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:40:28.555+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:28.554+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:40:28.561+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:40:28.590+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.056 seconds
+[2025-08-07T16:41:07.352+0700] {processor.py:157} INFO - Started process (PID=129143) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:41:07.354+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:41:07.355+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:07.355+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:41:07.357+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:41:07.367+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.018 seconds
+[2025-08-07T16:41:57.250+0700] {processor.py:157} INFO - Started process (PID=129359) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:41:57.257+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:41:57.259+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:57.258+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:41:57.262+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:41:57.278+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.032 seconds
+[2025-08-07T16:42:42.804+0700] {processor.py:157} INFO - Started process (PID=129536) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:42:42.814+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:42:42.818+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:42.817+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:42:42.829+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:42:42.875+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.087 seconds
+[2025-08-07T16:43:41.240+0700] {processor.py:157} INFO - Started process (PID=129779) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:43:41.242+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:43:41.243+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:41.242+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:43:41.245+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:43:41.260+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.027 seconds
+[2025-08-07T16:44:26.204+0700] {processor.py:157} INFO - Started process (PID=129975) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:44:26.206+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:44:26.206+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:26.206+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:44:26.208+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:44:26.218+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.017 seconds
+[2025-08-07T16:45:05.851+0700] {processor.py:157} INFO - Started process (PID=130165) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:45:05.864+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:45:05.865+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:05.864+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:45:05.867+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:45:05.878+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.030 seconds
+[2025-08-07T16:45:48.930+0700] {processor.py:157} INFO - Started process (PID=130365) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:45:48.942+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:45:48.943+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:48.943+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:45:48.945+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:45:48.957+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.030 seconds
+[2025-08-07T16:46:55.137+0700] {processor.py:157} INFO - Started process (PID=130658) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:46:55.140+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:46:55.141+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:46:55.141+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:46:55.146+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:46:55.165+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.034 seconds
+[2025-08-07T16:47:44.916+0700] {processor.py:157} INFO - Started process (PID=130861) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:47:44.919+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:47:44.921+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:44.920+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:47:44.929+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:47:44.961+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.054 seconds
+[2025-08-07T16:48:43.277+0700] {processor.py:157} INFO - Started process (PID=131114) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:48:43.288+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:48:43.289+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:43.288+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:48:43.290+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:48:43.299+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.025 seconds
+[2025-08-07T16:49:26.467+0700] {processor.py:157} INFO - Started process (PID=131299) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:49:26.472+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-08-07T16:49:26.475+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:49:26.474+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:49:26.485+0700] {processor.py:841} WARNING - No viable dags retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-08-07T16:49:26.527+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.072 seconds

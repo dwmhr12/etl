@@ -1,0 +1,340 @@
+[2025-08-07T15:45:41.339+0700] {processor.py:157} INFO - Started process (PID=113401) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:45:41.345+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:45:41.356+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:41.353+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:45:41.456+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:45:42.110+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:42.109+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:42.235+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:42.233+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:42.321+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:42.320+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:42.324+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:42.323+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:45:42.447+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:42.446+0700] {dag.py:2963} INFO - Creating ORM DAG for example_setup_teardown
+[2025-08-07T15:45:42.547+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:42.545+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:45:42.543590+00:00, run_after=2025-08-07T08:45:42.543590+00:00
+[2025-08-07T15:45:42.751+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 1.450 seconds
+[2025-08-07T15:46:41.228+0700] {processor.py:157} INFO - Started process (PID=113710) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:46:41.240+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:46:41.241+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:41.241+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:46:41.251+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:46:41.270+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:41.270+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:46:41.291+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:41.291+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:46:41.290944+00:00, run_after=2025-08-07T08:46:41.290944+00:00
+[2025-08-07T15:46:41.316+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.093 seconds
+[2025-08-07T15:47:36.739+0700] {processor.py:157} INFO - Started process (PID=114011) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:47:36.743+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:47:36.745+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:36.744+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:47:36.772+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:47:36.820+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:36.820+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:47:36.875+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:36.873+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:47:36.873168+00:00, run_after=2025-08-07T08:47:36.873168+00:00
+[2025-08-07T15:47:36.937+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.210 seconds
+[2025-08-07T15:48:24.811+0700] {processor.py:157} INFO - Started process (PID=114254) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:48:24.813+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:48:24.814+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:24.814+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:48:24.820+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:48:24.832+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:24.832+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:48:24.845+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:24.845+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:48:24.845323+00:00, run_after=2025-08-07T08:48:24.845323+00:00
+[2025-08-07T15:48:24.868+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.059 seconds
+[2025-08-07T15:49:42.824+0700] {processor.py:157} INFO - Started process (PID=114652) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:49:42.834+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:49:42.838+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:42.837+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:49:42.868+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:49:42.936+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:42.935+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:49:43.017+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:43.016+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:49:43.015709+00:00, run_after=2025-08-07T08:49:43.015709+00:00
+[2025-08-07T15:49:43.113+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.303 seconds
+[2025-08-07T15:51:05.395+0700] {processor.py:157} INFO - Started process (PID=115105) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:51:05.403+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:51:05.406+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:05.405+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:51:05.439+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:51:05.502+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:05.502+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:51:05.597+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:05.596+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:51:05.596122+00:00, run_after=2025-08-07T08:51:05.596122+00:00
+[2025-08-07T15:51:05.710+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.329 seconds
+[2025-08-07T15:52:06.391+0700] {processor.py:157} INFO - Started process (PID=115426) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:52:06.401+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:52:06.411+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:52:06.409+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:52:06.591+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:52:06.783+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:52:06.781+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:52:07.045+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:52:07.044+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:52:07.042454+00:00, run_after=2025-08-07T08:52:07.042454+00:00
+[2025-08-07T15:52:07.358+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.995 seconds
+[2025-08-07T15:53:27.795+0700] {processor.py:157} INFO - Started process (PID=115766) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:53:27.800+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:53:27.801+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:27.801+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:53:27.809+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:53:27.823+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:27.823+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:53:27.840+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:27.840+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:53:27.840425+00:00, run_after=2025-08-07T08:53:27.840425+00:00
+[2025-08-07T15:53:27.861+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.069 seconds
+[2025-08-07T15:55:06.166+0700] {processor.py:157} INFO - Started process (PID=116230) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:55:06.169+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:55:06.172+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:06.171+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:55:06.198+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:55:06.256+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:06.255+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:55:06.307+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:06.307+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:55:06.306453+00:00, run_after=2025-08-07T08:55:06.306453+00:00
+[2025-08-07T15:55:06.366+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.209 seconds
+[2025-08-07T15:56:30.055+0700] {processor.py:157} INFO - Started process (PID=116671) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:56:30.065+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:56:30.069+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:30.068+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:56:30.107+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:56:30.179+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:30.178+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:56:30.258+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:30.258+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:56:30.257418+00:00, run_after=2025-08-07T08:56:30.257418+00:00
+[2025-08-07T15:56:30.323+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.279 seconds
+[2025-08-07T15:57:33.525+0700] {processor.py:157} INFO - Started process (PID=117011) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:57:33.533+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T15:57:33.534+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:33.534+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:57:33.546+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T15:57:33.662+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:33.662+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:57:33.691+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:33.691+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T08:57:33.691147+00:00, run_after=2025-08-07T08:57:33.691147+00:00
+[2025-08-07T15:57:33.722+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.202 seconds
+[2025-08-07T16:00:05.162+0700] {processor.py:157} INFO - Started process (PID=117769) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:00:05.168+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:00:05.174+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:00:05.171+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:00:05.233+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:00:05.330+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:00:05.329+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:00:05.442+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:00:05.441+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:00:05.440227+00:00, run_after=2025-08-07T09:00:05.440227+00:00
+[2025-08-07T16:00:05.590+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.445 seconds
+[2025-08-07T16:04:15.022+0700] {processor.py:157} INFO - Started process (PID=118924) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:04:15.038+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:04:15.044+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:15.041+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:04:15.094+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:04:15.227+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:15.226+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:04:15.386+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:15.385+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:04:15.378088+00:00, run_after=2025-08-07T09:04:15.378088+00:00
+[2025-08-07T16:04:15.558+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.567 seconds
+[2025-08-07T16:05:16.964+0700] {processor.py:157} INFO - Started process (PID=119232) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:05:16.966+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:05:16.967+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:16.967+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:05:16.972+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:05:16.985+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:16.985+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:05:16.998+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:16.997+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:05:16.997727+00:00, run_after=2025-08-07T09:05:16.997727+00:00
+[2025-08-07T16:05:17.015+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.054 seconds
+[2025-08-07T16:06:37.621+0700] {processor.py:157} INFO - Started process (PID=119644) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:06:37.635+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:06:37.639+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:37.637+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:06:37.673+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:06:37.754+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:37.753+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:06:37.835+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:37.833+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:06:37.832913+00:00, run_after=2025-08-07T09:06:37.832913+00:00
+[2025-08-07T16:06:37.968+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.366 seconds
+[2025-08-07T16:07:53.004+0700] {processor.py:157} INFO - Started process (PID=119985) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:07:53.009+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:07:53.012+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:53.011+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:07:53.036+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:07:53.098+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:53.097+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:07:53.148+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:53.147+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:07:53.146749+00:00, run_after=2025-08-07T09:07:53.146749+00:00
+[2025-08-07T16:07:53.212+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.220 seconds
+[2025-08-07T16:09:03.924+0700] {processor.py:157} INFO - Started process (PID=120386) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:09:03.927+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:09:03.928+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:09:03.928+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:09:03.940+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:09:03.972+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:09:03.972+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:09:03.997+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:09:03.997+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:09:03.997055+00:00, run_after=2025-08-07T09:09:03.997055+00:00
+[2025-08-07T16:09:04.033+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.115 seconds
+[2025-08-07T16:10:23.435+0700] {processor.py:157} INFO - Started process (PID=120772) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:10:23.441+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:10:23.445+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:23.443+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:10:23.479+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:10:23.561+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:23.560+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:10:23.629+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:23.628+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:10:23.628048+00:00, run_after=2025-08-07T09:10:23.628048+00:00
+[2025-08-07T16:10:23.713+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.295 seconds
+[2025-08-07T16:11:18.208+0700] {processor.py:157} INFO - Started process (PID=121019) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:11:18.211+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:11:18.212+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:18.212+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:11:18.223+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:11:18.249+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:18.249+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:11:18.274+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:18.274+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:11:18.274311+00:00, run_after=2025-08-07T09:11:18.274311+00:00
+[2025-08-07T16:11:18.318+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.115 seconds
+[2025-08-07T16:12:10.921+0700] {processor.py:157} INFO - Started process (PID=121319) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:12:10.923+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:12:10.924+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:10.923+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:12:10.931+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:12:10.957+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:10.957+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:12:10.978+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:10.978+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:12:10.977743+00:00, run_after=2025-08-07T09:12:10.977743+00:00
+[2025-08-07T16:12:11.004+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.087 seconds
+[2025-08-07T16:13:03.450+0700] {processor.py:157} INFO - Started process (PID=121597) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:13:03.453+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:13:03.455+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:03.454+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:13:03.466+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:13:03.495+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:03.494+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:13:03.517+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:03.517+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:13:03.517179+00:00, run_after=2025-08-07T09:13:03.517179+00:00
+[2025-08-07T16:13:03.553+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.108 seconds
+[2025-08-07T16:13:49.101+0700] {processor.py:157} INFO - Started process (PID=121877) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:13:49.108+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:13:49.112+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:49.110+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:13:49.161+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:13:49.368+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:49.367+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:13:49.514+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:49.513+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:13:49.512089+00:00, run_after=2025-08-07T09:13:49.512089+00:00
+[2025-08-07T16:13:49.701+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.632 seconds
+[2025-08-07T16:14:43.786+0700] {processor.py:157} INFO - Started process (PID=122097) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:14:43.790+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:14:43.792+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:43.792+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:14:43.812+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:14:43.857+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:43.856+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:14:43.901+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:43.900+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:14:43.900077+00:00, run_after=2025-08-07T09:14:43.900077+00:00
+[2025-08-07T16:14:43.959+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.182 seconds
+[2025-08-07T16:15:52.342+0700] {processor.py:157} INFO - Started process (PID=122488) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:15:52.345+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:15:52.348+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:52.347+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:15:52.366+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:15:52.413+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:52.413+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:15:52.456+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:52.456+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:15:52.455846+00:00, run_after=2025-08-07T09:15:52.455846+00:00
+[2025-08-07T16:15:52.518+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.185 seconds
+[2025-08-07T16:16:57.179+0700] {processor.py:157} INFO - Started process (PID=122806) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:16:57.182+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:16:57.185+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:16:57.184+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:16:57.203+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:16:57.243+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:16:57.243+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:16:57.284+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:16:57.283+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:16:57.283029+00:00, run_after=2025-08-07T09:16:57.283029+00:00
+[2025-08-07T16:16:57.333+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.162 seconds
+[2025-08-07T16:18:00.014+0700] {processor.py:157} INFO - Started process (PID=123106) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:18:00.018+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:18:00.021+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:00.019+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:18:00.043+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:18:00.096+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:00.095+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:18:00.171+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:00.171+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:18:00.169541+00:00, run_after=2025-08-07T09:18:00.169541+00:00
+[2025-08-07T16:18:00.272+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.270 seconds
+[2025-08-07T16:18:51.710+0700] {processor.py:157} INFO - Started process (PID=123383) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:18:51.712+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:18:51.713+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:51.712+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:18:51.718+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:18:51.731+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:51.731+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:18:51.743+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:51.743+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:18:51.743037+00:00, run_after=2025-08-07T09:18:51.743037+00:00
+[2025-08-07T16:18:51.760+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.052 seconds
+[2025-08-07T16:27:14.504+0700] {processor.py:157} INFO - Started process (PID=125523) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:27:14.507+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:27:14.508+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:14.508+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:27:14.517+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:27:14.540+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:14.540+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:27:14.684+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:14.684+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:27:14.683823+00:00, run_after=2025-08-07T09:27:14.683823+00:00
+[2025-08-07T16:27:14.745+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.245 seconds
+[2025-08-07T16:28:37.041+0700] {processor.py:157} INFO - Started process (PID=125888) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:28:37.044+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:28:37.045+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:37.044+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:28:37.051+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:28:37.065+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:37.065+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:28:37.077+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:37.076+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:28:37.076767+00:00, run_after=2025-08-07T09:28:37.076767+00:00
+[2025-08-07T16:28:37.104+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.066 seconds
+[2025-08-07T16:29:33.888+0700] {processor.py:157} INFO - Started process (PID=126171) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:29:33.891+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:29:33.893+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:33.892+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:29:33.902+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:29:34.072+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:34.071+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:29:34.089+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:34.089+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:29:34.089444+00:00, run_after=2025-08-07T09:29:34.089444+00:00
+[2025-08-07T16:29:34.116+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.233 seconds
+[2025-08-07T16:30:37.555+0700] {processor.py:157} INFO - Started process (PID=126513) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:30:37.557+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:30:37.560+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:37.559+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:30:37.572+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:30:37.599+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:37.599+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:30:37.624+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:37.624+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:30:37.623764+00:00, run_after=2025-08-07T09:30:37.623764+00:00
+[2025-08-07T16:30:37.668+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.119 seconds
+[2025-08-07T16:31:38.734+0700] {processor.py:157} INFO - Started process (PID=126805) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:31:38.744+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:31:38.750+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:38.747+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:31:38.855+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:31:39.002+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:39.001+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:31:39.144+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:39.143+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:31:39.142372+00:00, run_after=2025-08-07T09:31:39.142372+00:00
+[2025-08-07T16:31:39.370+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.690 seconds
+[2025-08-07T16:33:48.451+0700] {processor.py:157} INFO - Started process (PID=127341) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:33:48.454+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:33:48.456+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:48.456+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:33:48.472+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:33:48.513+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:48.512+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:33:48.551+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:48.550+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:33:48.550222+00:00, run_after=2025-08-07T09:33:48.550222+00:00
+[2025-08-07T16:33:48.596+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.155 seconds
+[2025-08-07T16:34:55.861+0700] {processor.py:157} INFO - Started process (PID=127592) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:34:55.877+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:34:55.881+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:34:55.879+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:34:55.916+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:34:55.986+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:34:55.985+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:34:56.097+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:34:56.096+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:34:56.095235+00:00, run_after=2025-08-07T09:34:56.095235+00:00
+[2025-08-07T16:34:56.219+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.373 seconds
+[2025-08-07T16:35:46.000+0700] {processor.py:157} INFO - Started process (PID=127827) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:35:46.007+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:35:46.008+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:46.008+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:35:46.016+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:35:46.035+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:46.034+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:35:46.055+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:46.055+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:35:46.055475+00:00, run_after=2025-08-07T09:35:46.055475+00:00
+[2025-08-07T16:35:46.078+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.082 seconds
+[2025-08-07T16:36:35.036+0700] {processor.py:157} INFO - Started process (PID=128032) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:36:35.041+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:36:35.042+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:35.042+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:36:35.052+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:36:35.074+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:35.074+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:36:35.096+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:35.096+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:36:35.096247+00:00, run_after=2025-08-07T09:36:35.096247+00:00
+[2025-08-07T16:36:35.119+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.091 seconds
+[2025-08-07T16:37:39.824+0700] {processor.py:157} INFO - Started process (PID=128316) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:37:39.832+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:37:39.834+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:39.833+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:37:39.850+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:37:39.894+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:39.894+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:37:39.933+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:39.932+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:37:39.932070+00:00, run_after=2025-08-07T09:37:39.932070+00:00
+[2025-08-07T16:37:39.976+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.162 seconds
+[2025-08-07T16:38:44.376+0700] {processor.py:157} INFO - Started process (PID=128560) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:38:44.380+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:38:44.382+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:44.381+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:38:44.397+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:38:44.437+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:44.437+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:38:44.482+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:44.482+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:38:44.481577+00:00, run_after=2025-08-07T09:38:44.481577+00:00
+[2025-08-07T16:38:44.532+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.164 seconds
+[2025-08-07T16:39:37.755+0700] {processor.py:157} INFO - Started process (PID=128799) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:39:37.757+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:39:37.758+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:39:37.757+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:39:37.765+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:39:37.783+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:39:37.782+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:39:37.836+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:39:37.836+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:39:37.835947+00:00, run_after=2025-08-07T09:39:37.835947+00:00
+[2025-08-07T16:39:37.878+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.127 seconds
+[2025-08-07T16:40:50.183+0700] {processor.py:157} INFO - Started process (PID=129067) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:40:50.186+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:40:50.187+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:50.187+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:40:50.193+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:40:50.207+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:50.206+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:40:50.223+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:50.223+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:40:50.223138+00:00, run_after=2025-08-07T09:40:50.223138+00:00
+[2025-08-07T16:40:50.243+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.065 seconds
+[2025-08-07T16:41:45.175+0700] {processor.py:157} INFO - Started process (PID=129296) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:41:45.181+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:41:45.183+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:45.182+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:41:45.193+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:41:45.217+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:45.216+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:41:45.240+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:45.239+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:41:45.239574+00:00, run_after=2025-08-07T09:41:45.239574+00:00
+[2025-08-07T16:41:45.276+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.106 seconds
+[2025-08-07T16:42:53.179+0700] {processor.py:157} INFO - Started process (PID=129594) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:42:53.185+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:42:53.190+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:53.188+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:42:53.236+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:42:53.340+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:53.339+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:42:53.439+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:53.438+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:42:53.437237+00:00, run_after=2025-08-07T09:42:53.437237+00:00
+[2025-08-07T16:42:53.577+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.419 seconds
+[2025-08-07T16:43:52.135+0700] {processor.py:157} INFO - Started process (PID=129840) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:43:52.136+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:43:52.137+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:52.137+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:43:52.144+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:43:52.157+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:52.157+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:43:52.171+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:52.171+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:43:52.171049+00:00, run_after=2025-08-07T09:43:52.171049+00:00
+[2025-08-07T16:43:52.189+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.057 seconds
+[2025-08-07T16:44:52.414+0700] {processor.py:157} INFO - Started process (PID=130108) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:44:52.416+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:44:52.417+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:52.416+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:44:52.424+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:44:52.440+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:52.440+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:44:52.458+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:52.457+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:44:52.457598+00:00, run_after=2025-08-07T09:44:52.457598+00:00
+[2025-08-07T16:44:52.479+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.069 seconds
+[2025-08-07T16:45:56.318+0700] {processor.py:157} INFO - Started process (PID=130385) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:45:56.319+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:45:56.320+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:56.320+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:45:56.326+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:45:56.339+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:56.338+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:45:56.351+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:56.351+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:45:56.350964+00:00, run_after=2025-08-07T09:45:56.350964+00:00
+[2025-08-07T16:45:56.368+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.053 seconds
+[2025-08-07T16:47:09.425+0700] {processor.py:157} INFO - Started process (PID=130730) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:47:09.427+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:47:09.429+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:09.428+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:47:09.437+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:47:09.457+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:09.457+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:47:09.477+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:09.476+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:47:09.476630+00:00, run_after=2025-08-07T09:47:09.476630+00:00
+[2025-08-07T16:47:09.500+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.079 seconds
+[2025-08-07T16:48:03.312+0700] {processor.py:157} INFO - Started process (PID=130932) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:48:03.325+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:48:03.326+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:03.326+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:48:03.332+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:48:03.346+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:03.346+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:48:03.359+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:03.359+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:48:03.358830+00:00, run_after=2025-08-07T09:48:03.358830+00:00
+[2025-08-07T16:48:03.377+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.068 seconds
+[2025-08-07T16:48:59.824+0700] {processor.py:157} INFO - Started process (PID=131178) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:48:59.837+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-08-07T16:48:59.838+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:59.837+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:48:59.843+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-08-07T16:48:59.855+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:59.855+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:48:59.868+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:59.868+0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-08-06T09:48:59.868312+00:00, run_after=2025-08-07T09:48:59.868312+00:00
+[2025-08-07T16:48:59.884+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds

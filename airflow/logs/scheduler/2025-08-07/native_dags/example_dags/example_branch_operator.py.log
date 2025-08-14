@@ -1,0 +1,319 @@
+[2025-08-07T15:45:50.191+0700] {processor.py:157} INFO - Started process (PID=113427) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:45:50.194+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:45:50.196+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:50.195+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:45:50.225+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:45:50.487+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:50.487+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:50.511+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:50.511+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:50.529+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:50.528+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:50.530+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:50.529+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:45:50.557+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:50.556+0700] {dag.py:2963} INFO - Creating ORM DAG for example_branch_operator
+[2025-08-07T15:45:50.580+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:50.580+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:45:50.628+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.448 seconds
+[2025-08-07T15:46:46.395+0700] {processor.py:157} INFO - Started process (PID=113727) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:46:46.399+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:46:46.401+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:46.400+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:46:46.429+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:46:46.487+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:46.486+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:46:46.549+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:46.548+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:46:46.628+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.243 seconds
+[2025-08-07T15:47:42.673+0700] {processor.py:157} INFO - Started process (PID=114033) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:47:42.676+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:47:42.678+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:42.677+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:47:42.696+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:47:42.736+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:42.736+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:47:42.779+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:42.779+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:47:42.828+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.161 seconds
+[2025-08-07T15:48:37.357+0700] {processor.py:157} INFO - Started process (PID=114321) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:48:37.370+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:48:37.371+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:37.370+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:48:37.378+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:48:37.392+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:37.392+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:48:37.405+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:37.405+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:48:37.422+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.068 seconds
+[2025-08-07T15:49:50.117+0700] {processor.py:157} INFO - Started process (PID=114689) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:49:50.120+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:49:50.123+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:50.122+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:49:50.153+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:49:50.223+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:50.222+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:49:50.299+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:50.298+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:49:50.367+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.260 seconds
+[2025-08-07T15:51:12.518+0700] {processor.py:157} INFO - Started process (PID=115122) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:51:12.528+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:51:12.531+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:12.530+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:51:12.565+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:51:12.647+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:12.646+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:51:12.730+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:12.729+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:51:12.810+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.302 seconds
+[2025-08-07T15:53:32.822+0700] {processor.py:157} INFO - Started process (PID=115779) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:53:32.828+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:53:32.829+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:32.829+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:53:32.838+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:53:32.854+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:32.853+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:53:32.872+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:32.872+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:53:32.895+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.075 seconds
+[2025-08-07T15:55:12.795+0700] {processor.py:157} INFO - Started process (PID=116266) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:55:12.797+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:55:12.798+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:12.798+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:55:12.857+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:55:12.966+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:12.965+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:55:12.999+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:12.999+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:55:13.108+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.318 seconds
+[2025-08-07T15:56:34.898+0700] {processor.py:157} INFO - Started process (PID=116682) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:56:34.901+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:56:34.903+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:34.902+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:56:34.925+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:56:34.968+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:34.968+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:56:35.014+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:35.014+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:56:35.057+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.167 seconds
+[2025-08-07T15:57:39.083+0700] {processor.py:157} INFO - Started process (PID=117061) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:57:39.086+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T15:57:39.088+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:39.087+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:57:39.106+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T15:57:39.141+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:39.140+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:57:39.179+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:39.179+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T15:57:39.228+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.151 seconds
+[2025-08-07T16:00:10.893+0700] {processor.py:157} INFO - Started process (PID=117805) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:00:10.898+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:00:10.901+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:00:10.900+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:00:10.934+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:00:11.007+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:00:11.007+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:00:11.086+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:00:11.086+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:00:11.157+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.279 seconds
+[2025-08-07T16:04:21.972+0700] {processor.py:157} INFO - Started process (PID=118966) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:04:21.979+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:04:21.983+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:21.981+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:04:22.032+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:04:22.106+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:22.106+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:04:22.185+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:22.184+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:04:22.264+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.306 seconds
+[2025-08-07T16:05:21.163+0700] {processor.py:157} INFO - Started process (PID=119278) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:05:21.165+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:05:21.165+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:21.165+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:05:21.173+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:05:21.188+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:21.188+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:05:21.202+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:21.202+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:05:21.223+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2025-08-07T16:06:44.607+0700] {processor.py:157} INFO - Started process (PID=119662) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:06:44.614+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:06:44.619+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:44.617+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:06:44.673+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:06:44.764+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:44.763+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:06:44.851+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:44.851+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:06:44.942+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.349 seconds
+[2025-08-07T16:07:58.502+0700] {processor.py:157} INFO - Started process (PID=120067) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:07:58.505+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:07:58.507+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:58.506+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:07:58.529+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:07:58.574+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:58.573+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:07:58.623+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:58.622+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:07:58.671+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.178 seconds
+[2025-08-07T16:09:11.292+0700] {processor.py:157} INFO - Started process (PID=120406) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:09:11.302+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:09:11.307+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:09:11.305+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:09:11.364+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:09:11.462+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:09:11.461+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:09:11.562+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:09:11.561+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:09:11.663+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.398 seconds
+[2025-08-07T16:10:30.329+0700] {processor.py:157} INFO - Started process (PID=120810) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:10:30.333+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:10:30.335+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:30.334+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:10:30.354+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:10:30.390+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:30.389+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:10:30.426+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:30.426+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:10:30.469+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.148 seconds
+[2025-08-07T16:11:24.498+0700] {processor.py:157} INFO - Started process (PID=121103) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:11:24.501+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:11:24.502+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:24.502+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:11:24.520+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:11:24.556+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:24.555+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:11:24.590+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:24.590+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:11:24.641+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.150 seconds
+[2025-08-07T16:12:16.894+0700] {processor.py:157} INFO - Started process (PID=121330) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:12:16.901+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:12:16.907+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:16.904+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:12:16.981+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:12:17.067+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:17.066+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:12:17.229+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:17.225+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:12:17.351+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.483 seconds
+[2025-08-07T16:13:30.837+0700] {processor.py:157} INFO - Started process (PID=121759) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:13:30.839+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:13:30.841+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:30.840+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:13:30.854+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:13:30.883+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:30.882+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:13:30.910+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:30.910+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:13:30.956+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.124 seconds
+[2025-08-07T16:14:46.670+0700] {processor.py:157} INFO - Started process (PID=122169) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:14:46.678+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:14:46.683+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:46.680+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:14:46.739+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:14:46.882+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:46.881+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:14:47.049+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:47.048+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:14:47.172+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.524 seconds
+[2025-08-07T16:15:57.654+0700] {processor.py:157} INFO - Started process (PID=122504) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:15:57.658+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:15:57.664+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:57.662+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:15:57.704+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:15:57.782+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:57.782+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:15:57.885+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:57.884+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:15:57.998+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.357 seconds
+[2025-08-07T16:17:00.306+0700] {processor.py:157} INFO - Started process (PID=122810) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:17:00.310+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:17:00.312+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:17:00.311+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:17:00.338+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:17:00.403+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:17:00.400+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:17:00.463+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:17:00.463+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:17:00.775+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.479 seconds
+[2025-08-07T16:18:04.018+0700] {processor.py:157} INFO - Started process (PID=123116) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:18:04.024+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:18:04.032+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:04.030+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:18:04.087+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:18:04.202+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:04.201+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:18:04.328+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:04.327+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:18:04.436+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.433 seconds
+[2025-08-07T16:18:54.540+0700] {processor.py:157} INFO - Started process (PID=123399) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:18:54.544+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:18:54.545+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:54.544+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:18:54.551+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:18:54.565+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:54.565+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:18:54.579+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:54.579+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:18:54.599+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.062 seconds
+[2025-08-07T16:27:20.211+0700] {processor.py:157} INFO - Started process (PID=125566) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:27:20.217+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:27:20.220+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:20.218+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:27:20.255+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:27:20.318+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:20.317+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:27:20.679+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:20.677+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:27:20.742+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.544 seconds
+[2025-08-07T16:28:42.081+0700] {processor.py:157} INFO - Started process (PID=125935) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:28:42.084+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:28:42.086+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:42.085+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:28:42.097+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:28:42.120+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:42.120+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:28:42.142+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:42.142+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:28:42.177+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.100 seconds
+[2025-08-07T16:29:39.997+0700] {processor.py:157} INFO - Started process (PID=126226) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:29:40.001+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:29:40.002+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:40.001+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:29:40.012+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:29:40.152+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:40.152+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:29:40.170+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:40.170+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:29:40.192+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.199 seconds
+[2025-08-07T16:30:43.278+0700] {processor.py:157} INFO - Started process (PID=126531) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:30:43.280+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:30:43.282+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:43.281+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:30:43.294+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:30:43.319+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:43.319+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:30:43.343+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:43.343+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:30:43.382+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.109 seconds
+[2025-08-07T16:31:46.190+0700] {processor.py:157} INFO - Started process (PID=126849) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:31:46.205+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:31:46.222+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:46.208+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:31:46.287+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:31:46.416+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:46.415+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:31:46.494+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:46.493+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:31:46.569+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.402 seconds
+[2025-08-07T16:33:53.123+0700] {processor.py:157} INFO - Started process (PID=127352) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:33:53.128+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:33:53.129+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:53.128+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:33:53.138+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:33:53.154+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:53.154+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:33:53.170+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:53.169+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:33:53.190+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.071 seconds
+[2025-08-07T16:35:02.773+0700] {processor.py:157} INFO - Started process (PID=127628) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:35:02.780+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:35:02.784+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:02.783+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:35:02.821+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:35:02.947+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:02.946+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:35:03.221+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:03.220+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:35:03.447+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.687 seconds
+[2025-08-07T16:35:51.142+0700] {processor.py:157} INFO - Started process (PID=127832) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:35:51.143+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:35:51.144+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:51.144+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:35:51.152+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:35:51.168+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:51.168+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:35:51.183+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:51.183+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:35:51.202+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2025-08-07T16:36:46.774+0700] {processor.py:157} INFO - Started process (PID=128091) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:36:46.776+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:36:46.777+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:46.777+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:36:46.785+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:36:46.802+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:46.801+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:36:46.817+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:46.817+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:36:46.841+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.070 seconds
+[2025-08-07T16:37:45.144+0700] {processor.py:157} INFO - Started process (PID=128327) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:37:45.148+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:37:45.152+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:45.150+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:37:45.194+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:37:45.278+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:45.277+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:37:45.358+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:45.358+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:37:45.460+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.330 seconds
+[2025-08-07T16:38:49.480+0700] {processor.py:157} INFO - Started process (PID=128571) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:38:49.482+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:38:49.483+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:49.483+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:38:49.495+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:38:49.528+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:49.528+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:38:49.558+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:49.557+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:38:49.596+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.122 seconds
+[2025-08-07T16:40:12.650+0700] {processor.py:157} INFO - Started process (PID=128914) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:40:12.662+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:40:12.665+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:12.664+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:40:12.696+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:40:12.778+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:12.777+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:40:12.859+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:12.858+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:40:12.993+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.353 seconds
+[2025-08-07T16:41:21.706+0700] {processor.py:157} INFO - Started process (PID=129213) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:41:21.715+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:41:21.721+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:21.719+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:41:21.801+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:41:21.924+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:21.923+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:41:22.036+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:22.035+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:41:22.157+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.473 seconds
+[2025-08-07T16:42:07.970+0700] {processor.py:157} INFO - Started process (PID=129402) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:42:07.975+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:42:07.977+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:07.976+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:42:07.995+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:42:08.027+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:08.027+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:42:08.056+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:08.056+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:42:08.097+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.132 seconds
+[2025-08-07T16:43:26.185+0700] {processor.py:157} INFO - Started process (PID=129714) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:43:26.193+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:43:26.197+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:26.195+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:43:26.240+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:43:26.328+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:26.328+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:43:26.404+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:26.403+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:43:26.600+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.438 seconds
+[2025-08-07T16:44:18.058+0700] {processor.py:157} INFO - Started process (PID=129960) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:44:18.061+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:44:18.063+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:18.063+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:44:18.085+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:44:18.129+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:18.128+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:44:18.173+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:18.173+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:44:18.231+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.181 seconds
+[2025-08-07T16:45:19.266+0700] {processor.py:157} INFO - Started process (PID=130233) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:45:19.268+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:45:19.268+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:19.268+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:45:19.276+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:45:19.290+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:19.290+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:45:19.304+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:19.303+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:45:19.322+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.059 seconds
+[2025-08-07T16:46:40.565+0700] {processor.py:157} INFO - Started process (PID=130608) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:46:40.622+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:46:40.665+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:46:40.647+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:46:40.957+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:46:41.214+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:46:41.213+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:46:41.730+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:46:41.729+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:46:41.969+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 1.431 seconds
+[2025-08-07T16:47:35.720+0700] {processor.py:157} INFO - Started process (PID=130809) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:47:35.722+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:47:35.723+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:35.723+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:47:35.735+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:47:35.760+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:35.760+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:47:35.785+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:35.784+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:47:35.816+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.101 seconds
+[2025-08-07T16:49:02.665+0700] {processor.py:157} INFO - Started process (PID=131181) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:49:02.667+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2025-08-07T16:49:02.667+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:49:02.667+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:49:02.674+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2025-08-07T16:49:02.689+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:49:02.689+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:49:02.702+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:49:02.702+0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_operator to 2025-08-06T00:00:00+00:00, run_after=2025-08-07T00:00:00+00:00
+[2025-08-07T16:49:02.719+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.057 seconds

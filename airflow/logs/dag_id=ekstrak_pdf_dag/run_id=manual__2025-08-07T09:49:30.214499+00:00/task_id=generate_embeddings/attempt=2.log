@@ -1,0 +1,27 @@
+[2025-08-08T14:26:04.550+0700] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ekstrak_pdf_dag.generate_embeddings manual__2025-08-07T09:49:30.214499+00:00 [queued]>
+[2025-08-08T14:26:04.701+0700] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ekstrak_pdf_dag.generate_embeddings manual__2025-08-07T09:49:30.214499+00:00 [queued]>
+[2025-08-08T14:26:04.703+0700] {taskinstance.py:1361} INFO - Starting attempt 2 of 1
+[2025-08-08T14:26:04.887+0700] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): generate_embeddings> on 2025-08-07 09:49:30.214499+00:00
+[2025-08-08T14:26:04.989+0700] {standard_task_runner.py:57} INFO - Started process 85360 to run task
+[2025-08-08T14:26:05.241+0700] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'ekstrak_pdf_dag', 'generate_embeddings', 'manual__2025-08-07T09:49:30.214499+00:00', '--job-id', '24', '--raw', '--subdir', 'DAGS_FOLDER/etl.py', '--cfg-path', '/tmp/tmpmoik3wsk']
+[2025-08-08T14:26:05.250+0700] {standard_task_runner.py:85} INFO - Job 24: Subtask generate_embeddings
+[2025-08-08T14:26:11.689+0700] {task_command.py:416} INFO - Running <TaskInstance: ekstrak_pdf_dag.generate_embeddings manual__2025-08-07T09:49:30.214499+00:00 [running]> on host dwmhr.localdomain
+[2025-08-08T14:26:13.636+0700] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ekstrak_pdf_dag' AIRFLOW_CTX_TASK_ID='generate_embeddings' AIRFLOW_CTX_EXECUTION_DATE='2025-08-07T09:49:30.214499+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-07T09:49:30.214499+00:00'
+[2025-08-08T14:29:12.383+0700] {logging_mixin.py:154} INFO - Generating embeddings...
+[2025-08-08T14:29:12.387+0700] {SentenceTransformer.py:227} INFO - Load pretrained SentenceTransformer: BAAI/bge-m3
+[2025-08-08T14:45:23.295+0700] {logging_mixin.py:154} WARNING - Batches:   0%|          | 0/8 [00:00<?, ?it/s]
+[2025-08-08T14:55:20.569+0700] {logging_mixin.py:154} WARNING - Batches:  12%|#2        | 1/8 [09:57<1:09:39, 597.02s/it]
+[2025-08-08T14:57:57.880+0700] {logging_mixin.py:154} WARNING - Batches:  25%|##5       | 2/8 [12:34<33:50, 338.36s/it]  
+[2025-08-08T15:00:47.346+0700] {logging_mixin.py:154} WARNING - Batches:  38%|###7      | 3/8 [15:23<21:46, 261.30s/it]
+[2025-08-08T15:01:28.734+0700] {logging_mixin.py:154} WARNING - Batches:  50%|#####     | 4/8 [16:05<11:38, 174.51s/it]
+[2025-08-08T15:01:52.066+0700] {logging_mixin.py:154} WARNING - Batches:  62%|######2   | 5/8 [16:28<05:59, 119.99s/it]
+[2025-08-08T15:02:16.599+0700] {logging_mixin.py:154} WARNING - Batches:  75%|#######5  | 6/8 [16:53<02:55, 87.54s/it] 
+[2025-08-08T15:02:35.943+0700] {logging_mixin.py:154} WARNING - Batches:  88%|########7 | 7/8 [17:12<01:05, 65.24s/it]
+[2025-08-08T15:02:42.483+0700] {logging_mixin.py:154} WARNING - Batches: 100%|##########| 8/8 [17:19<00:00, 46.55s/it]
+[2025-08-08T15:02:42.497+0700] {logging_mixin.py:154} WARNING - Batches: 100%|##########| 8/8 [17:19<00:00, 129.89s/it]
+[2025-08-08T15:02:44.738+0700] {logging_mixin.py:154} INFO - Embeddings saved to /home/dwmhr/pln/data/processed/Kepdir 0306 Kepdir 2023_v7/Kepdir 0306 Kepdir 2023_ekstrak_chunked_embedding.jsonl
+[2025-08-08T15:02:44.745+0700] {logging_mixin.py:154} INFO - [DONE] Embedding generation completed in 2012.36 seconds.
+[2025-08-08T15:02:44.813+0700] {python.py:194} INFO - Done. Returned value was: None
+[2025-08-08T15:02:46.164+0700] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=ekstrak_pdf_dag, task_id=generate_embeddings, execution_date=20250807T094930, start_date=20250808T072604, end_date=20250808T080246
+[2025-08-08T15:02:49.403+0700] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-08-08T15:02:51.934+0700] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

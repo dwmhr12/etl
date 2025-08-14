@@ -1,0 +1,609 @@
+[2025-08-08T15:05:04.192+0700] {processor.py:157} INFO - Started process (PID=88863) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:05:04.197+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:05:04.202+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:05:04.200+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:05:04.245+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:05:04.684+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:05:04.683+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:05:04.934+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:05:04.933+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:05:05.185+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.013 seconds
+[2025-08-08T15:06:04.662+0700] {processor.py:157} INFO - Started process (PID=89040) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:06:04.666+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:06:04.668+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:04.667+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:06:04.691+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:06:04.738+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:04.737+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:06:04.776+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:04.776+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:06:04.833+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.182 seconds
+[2025-08-08T15:06:52.158+0700] {processor.py:157} INFO - Started process (PID=89194) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:06:52.159+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:06:52.161+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:52.160+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:06:52.169+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:06:52.188+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:52.188+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:06:52.202+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:52.202+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:06:52.244+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2025-08-08T15:07:41.305+0700] {processor.py:157} INFO - Started process (PID=89315) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:07:41.307+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:07:41.307+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:07:41.307+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:07:41.313+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:07:41.325+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:07:41.325+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:07:41.333+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:07:41.333+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:07:41.349+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.047 seconds
+[2025-08-08T15:10:21.623+0700] {processor.py:157} INFO - Started process (PID=89659) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:10:21.626+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:10:21.628+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:10:21.627+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:10:21.641+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:10:21.672+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:10:21.672+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:10:21.696+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:10:21.695+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:10:21.742+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.127 seconds
+[2025-08-08T15:12:07.868+0700] {processor.py:157} INFO - Started process (PID=89893) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:12:07.871+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:12:07.874+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:12:07.873+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:12:07.890+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:12:07.927+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:12:07.927+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:12:07.956+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:12:07.955+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:12:08.007+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.148 seconds
+[2025-08-08T15:13:16.236+0700] {processor.py:157} INFO - Started process (PID=90072) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:13:16.237+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:13:16.238+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:13:16.238+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:13:16.245+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:13:16.259+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:13:16.259+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:13:16.269+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:13:16.269+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:13:16.289+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.057 seconds
+[2025-08-08T15:14:09.353+0700] {processor.py:157} INFO - Started process (PID=90229) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:14:09.358+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:14:09.361+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:14:09.360+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:14:09.387+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:14:09.443+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:14:09.442+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:14:09.484+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:14:09.483+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:14:09.582+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.246 seconds
+[2025-08-08T15:15:01.483+0700] {processor.py:157} INFO - Started process (PID=90399) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:15:01.488+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:15:01.488+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:01.488+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:15:01.494+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:15:01.506+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:01.505+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:15:01.514+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:01.514+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:15:01.536+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.055 seconds
+[2025-08-08T15:15:53.691+0700] {processor.py:157} INFO - Started process (PID=90569) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:15:53.693+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:15:53.694+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:53.693+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:15:53.699+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:15:53.715+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:53.714+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:15:53.724+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:53.724+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:15:53.744+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T15:16:36.063+0700] {processor.py:157} INFO - Started process (PID=90673) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:16:36.065+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:16:36.068+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:16:36.067+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:16:36.087+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:16:36.137+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:16:36.136+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:16:36.178+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:16:36.178+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:16:36.227+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.173 seconds
+[2025-08-08T15:17:14.189+0700] {processor.py:157} INFO - Started process (PID=90804) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:17:14.197+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:17:14.197+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:14.197+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:17:14.202+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:17:14.213+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:14.213+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:17:14.221+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:14.220+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:17:14.240+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.054 seconds
+[2025-08-08T15:18:01.174+0700] {processor.py:157} INFO - Started process (PID=90951) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:18:01.186+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:18:01.187+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:01.187+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:18:01.193+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:18:01.204+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:01.204+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:18:01.212+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:01.211+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:18:01.229+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T15:18:57.207+0700] {processor.py:157} INFO - Started process (PID=91137) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:18:57.209+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:18:57.211+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:57.210+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:18:57.221+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:18:57.248+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:57.248+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:18:57.265+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:57.265+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:18:57.309+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.108 seconds
+[2025-08-08T15:19:46.860+0700] {processor.py:157} INFO - Started process (PID=91300) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:19:46.864+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:19:46.866+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:19:46.865+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:19:46.886+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:19:46.942+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:19:46.941+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:19:46.974+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:19:46.973+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:19:47.041+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.191 seconds
+[2025-08-08T15:20:43.972+0700] {processor.py:157} INFO - Started process (PID=91467) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:20:43.976+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:20:43.980+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:20:43.979+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:20:44.000+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:20:44.057+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:20:44.056+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:20:44.097+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:20:44.097+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:20:44.174+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.213 seconds
+[2025-08-08T15:21:51.844+0700] {processor.py:157} INFO - Started process (PID=91639) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:21:51.848+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:21:51.850+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:21:51.849+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:21:51.869+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:21:51.914+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:21:51.914+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:21:51.946+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:21:51.946+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:21:52.012+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.178 seconds
+[2025-08-08T15:22:51.512+0700] {processor.py:157} INFO - Started process (PID=91808) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:22:51.529+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:22:51.535+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:22:51.533+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:22:51.574+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:22:51.654+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:22:51.654+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:22:51.699+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:22:51.697+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:22:51.849+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.364 seconds
+[2025-08-08T15:24:16.329+0700] {processor.py:157} INFO - Started process (PID=92043) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:24:16.332+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:24:16.334+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:24:16.333+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:24:16.350+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:24:16.384+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:24:16.383+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:24:16.409+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:24:16.409+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:24:16.458+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.138 seconds
+[2025-08-08T15:25:20.891+0700] {processor.py:157} INFO - Started process (PID=92200) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:25:20.899+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:25:20.903+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:25:20.901+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:25:20.941+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:25:21.029+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:25:21.029+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:25:21.068+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:25:21.067+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:25:21.138+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.264 seconds
+[2025-08-08T15:26:16.468+0700] {processor.py:157} INFO - Started process (PID=92374) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:26:16.472+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:26:16.474+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:26:16.473+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:26:16.485+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:26:16.515+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:26:16.515+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:26:16.535+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:26:16.535+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:26:16.580+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.120 seconds
+[2025-08-08T15:27:04.984+0700] {processor.py:157} INFO - Started process (PID=92508) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:27:04.997+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:27:04.998+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:04.998+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:27:05.005+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:27:05.016+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:05.016+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:27:05.024+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:05.024+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:27:05.042+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.061 seconds
+[2025-08-08T15:27:50.806+0700] {processor.py:157} INFO - Started process (PID=92672) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:27:50.808+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:27:50.808+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:50.808+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:27:50.814+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:27:50.826+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:50.826+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:27:50.834+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:50.834+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:27:50.852+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.049 seconds
+[2025-08-08T15:28:41.546+0700] {processor.py:157} INFO - Started process (PID=92806) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:28:41.552+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:28:41.563+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:28:41.554+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:28:41.604+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:28:41.708+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:28:41.707+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:28:41.769+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:28:41.768+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:28:41.892+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.366 seconds
+[2025-08-08T15:29:35.817+0700] {processor.py:157} INFO - Started process (PID=92972) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:29:35.823+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:29:35.839+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:35.826+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:29:35.906+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:29:35.997+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:35.996+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:29:36.021+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:36.021+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:29:36.118+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.331 seconds
+[2025-08-08T15:30:17.601+0700] {processor.py:157} INFO - Started process (PID=93102) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:30:17.608+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:30:17.609+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:17.609+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:30:17.618+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:30:17.640+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:17.640+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:30:17.654+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:17.654+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:30:17.684+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2025-08-08T15:30:56.650+0700] {processor.py:157} INFO - Started process (PID=93207) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:30:56.653+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:30:56.655+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:56.654+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:30:56.669+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:30:56.703+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:56.703+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:30:56.725+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:56.725+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:30:56.780+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.138 seconds
+[2025-08-08T15:31:40.780+0700] {processor.py:157} INFO - Started process (PID=93347) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:31:40.794+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:31:40.795+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:31:40.794+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:31:40.800+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:31:40.815+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:31:40.815+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:31:40.823+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:31:40.822+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:31:40.841+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2025-08-08T15:32:33.443+0700] {processor.py:157} INFO - Started process (PID=93509) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:32:33.456+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:32:33.457+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:32:33.457+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:32:33.462+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:32:33.474+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:32:33.474+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:32:33.481+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:32:33.481+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:32:33.499+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T15:33:22.330+0700] {processor.py:157} INFO - Started process (PID=93647) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:33:22.336+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:33:22.340+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:33:22.338+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:33:22.350+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:33:22.378+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:33:22.377+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:33:22.393+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:33:22.393+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:33:22.426+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.098 seconds
+[2025-08-08T15:34:09.757+0700] {processor.py:157} INFO - Started process (PID=93816) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:34:09.770+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:34:09.771+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:09.771+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:34:09.777+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:34:09.790+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:09.790+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:34:09.800+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:09.800+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:34:09.818+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2025-08-08T15:34:53.394+0700] {processor.py:157} INFO - Started process (PID=93963) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:34:53.407+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:34:53.408+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:53.407+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:34:53.413+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:34:53.426+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:53.426+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:34:53.434+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:53.434+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:34:53.452+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2025-08-08T15:35:46.928+0700] {processor.py:157} INFO - Started process (PID=94112) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:35:46.930+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:35:46.931+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:35:46.931+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:35:46.937+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:35:46.951+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:35:46.951+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:35:46.960+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:35:46.960+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:35:46.979+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.054 seconds
+[2025-08-08T15:36:36.010+0700] {processor.py:157} INFO - Started process (PID=94303) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:36:36.013+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:36:36.015+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:36:36.015+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:36:36.026+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:36:36.052+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:36:36.052+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:36:36.072+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:36:36.071+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:36:36.113+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.111 seconds
+[2025-08-08T15:37:30.386+0700] {processor.py:157} INFO - Started process (PID=94451) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:37:30.388+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:37:30.389+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:37:30.389+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:37:30.396+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:37:30.412+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:37:30.411+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:37:30.422+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:37:30.421+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:37:30.447+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2025-08-08T15:38:16.074+0700] {processor.py:157} INFO - Started process (PID=94606) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:38:16.087+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:38:16.088+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:38:16.088+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:38:16.096+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:38:16.115+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:38:16.115+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:38:16.127+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:38:16.127+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:38:16.151+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.081 seconds
+[2025-08-08T15:39:03.662+0700] {processor.py:157} INFO - Started process (PID=94745) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:39:03.664+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:39:03.665+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:03.664+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:39:03.671+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:39:03.686+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:03.686+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:39:03.696+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:03.696+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:39:03.718+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2025-08-08T15:39:47.852+0700] {processor.py:157} INFO - Started process (PID=94882) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:39:47.855+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:39:47.857+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:47.856+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:39:47.871+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:39:47.915+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:47.915+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:39:47.944+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:47.943+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:39:47.990+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.144 seconds
+[2025-08-08T15:40:24.419+0700] {processor.py:157} INFO - Started process (PID=94995) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:40:24.432+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:40:24.432+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:40:24.432+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:40:24.437+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:40:24.449+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:40:24.449+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:40:24.457+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:40:24.456+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:40:24.475+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T15:41:19.767+0700] {processor.py:157} INFO - Started process (PID=95167) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:41:19.772+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:41:19.777+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:41:19.775+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:41:19.828+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:41:19.919+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:41:19.918+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:41:19.988+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:41:19.987+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:41:20.113+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.368 seconds
+[2025-08-08T15:42:10.321+0700] {processor.py:157} INFO - Started process (PID=95330) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:42:10.323+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:42:10.323+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:42:10.323+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:42:10.328+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:42:10.340+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:42:10.340+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:42:10.348+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:42:10.348+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:42:10.365+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.046 seconds
+[2025-08-08T15:43:05.939+0700] {processor.py:157} INFO - Started process (PID=95506) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:43:05.952+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:43:05.953+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:05.952+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:43:05.958+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:43:05.971+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:05.971+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:43:05.978+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:05.978+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:43:05.996+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2025-08-08T15:43:50.565+0700] {processor.py:157} INFO - Started process (PID=95643) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:43:50.578+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:43:50.579+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:50.578+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:43:50.585+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:43:50.596+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:50.596+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:43:50.604+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:50.604+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:43:50.622+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2025-08-08T15:44:35.251+0700] {processor.py:157} INFO - Started process (PID=95789) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:44:35.264+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:44:35.265+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:44:35.264+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:44:35.272+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:44:35.289+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:44:35.289+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:44:35.300+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:44:35.300+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:44:35.322+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2025-08-08T15:45:13.746+0700] {processor.py:157} INFO - Started process (PID=95894) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:45:13.759+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:45:13.760+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:13.759+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:45:13.767+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:45:13.786+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:13.786+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:45:13.798+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:13.798+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:45:13.825+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2025-08-08T15:45:50.010+0700] {processor.py:157} INFO - Started process (PID=96020) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:45:50.023+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:45:50.024+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:50.023+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:45:50.029+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:45:50.042+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:50.042+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:45:50.049+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:50.049+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:45:50.070+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2025-08-08T15:46:37.386+0700] {processor.py:157} INFO - Started process (PID=96167) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:46:37.399+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:46:37.400+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:46:37.400+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:46:37.405+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:46:37.419+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:46:37.419+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:46:37.439+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:46:37.438+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:46:37.459+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2025-08-08T15:47:28.763+0700] {processor.py:157} INFO - Started process (PID=96341) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:47:28.776+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:47:28.777+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:47:28.776+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:47:28.782+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:47:28.795+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:47:28.795+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:47:28.804+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:47:28.804+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:47:28.822+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-08-08T15:48:14.085+0700] {processor.py:157} INFO - Started process (PID=96478) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:48:14.088+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:48:14.089+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:48:14.088+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:48:14.094+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:48:14.106+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:48:14.105+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:48:14.113+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:48:14.113+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:48:14.130+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2025-08-08T15:49:03.021+0700] {processor.py:157} INFO - Started process (PID=96632) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:49:03.023+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:49:03.023+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:03.023+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:49:03.029+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:49:03.042+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:03.042+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:49:03.053+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:03.053+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:49:03.070+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.052 seconds
+[2025-08-08T15:49:50.486+0700] {processor.py:157} INFO - Started process (PID=96798) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:49:50.499+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:49:50.500+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:50.500+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:49:50.507+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:49:50.524+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:50.524+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:49:50.535+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:50.535+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:49:50.557+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2025-08-08T15:50:30.051+0700] {processor.py:157} INFO - Started process (PID=96908) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:50:30.064+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:50:30.066+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:50:30.065+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:50:30.074+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:50:30.106+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:50:30.105+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:50:30.119+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:50:30.118+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:50:30.146+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.103 seconds
+[2025-08-08T15:51:13.302+0700] {processor.py:157} INFO - Started process (PID=97035) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:51:13.304+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:51:13.305+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:51:13.305+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:51:13.314+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:51:13.334+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:51:13.333+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:51:13.347+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:51:13.347+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:51:13.369+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2025-08-08T15:51:56.446+0700] {processor.py:157} INFO - Started process (PID=97174) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:51:56.451+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:51:56.453+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:51:56.452+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:51:56.470+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:51:56.492+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:51:56.492+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:51:56.505+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:51:56.505+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:51:56.541+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.104 seconds
+[2025-08-08T15:52:39.569+0700] {processor.py:157} INFO - Started process (PID=97309) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:52:39.570+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:52:39.572+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:52:39.571+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:52:39.582+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:52:39.610+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:52:39.610+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:52:39.639+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:52:39.638+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:52:39.698+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.133 seconds
+[2025-08-08T15:53:20.185+0700] {processor.py:157} INFO - Started process (PID=97439) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:53:20.199+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:53:20.202+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:53:20.201+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:53:20.215+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:53:20.233+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:53:20.233+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:53:20.243+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:53:20.243+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:53:20.268+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2025-08-08T15:54:16.389+0700] {processor.py:157} INFO - Started process (PID=97617) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:54:16.403+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:54:16.406+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:16.404+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:54:16.421+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:54:16.443+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:16.442+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:54:16.455+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:16.454+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:54:16.485+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.100 seconds
+[2025-08-08T15:54:58.053+0700] {processor.py:157} INFO - Started process (PID=97745) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:54:58.067+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:54:58.070+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:58.069+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:54:58.086+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:54:58.113+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:58.113+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:54:58.135+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:58.135+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:54:58.171+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.126 seconds
+[2025-08-08T15:55:38.306+0700] {processor.py:157} INFO - Started process (PID=97876) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:55:38.320+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:55:38.323+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:55:38.322+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:55:38.336+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:55:38.372+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:55:38.372+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:55:38.391+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:55:38.390+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:55:38.435+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.137 seconds
+[2025-08-08T15:56:17.551+0700] {processor.py:157} INFO - Started process (PID=97988) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:56:17.564+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:56:17.565+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:17.565+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:56:17.570+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:56:17.583+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:17.582+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:56:17.590+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:17.590+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:56:17.607+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T15:57:02.811+0700] {processor.py:157} INFO - Started process (PID=98154) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:57:02.823+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:57:02.824+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:02.824+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:57:02.829+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:57:02.841+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:02.841+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:57:02.849+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:02.849+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:57:02.867+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T15:57:43.497+0700] {processor.py:157} INFO - Started process (PID=98270) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:57:43.510+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:57:43.511+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:43.510+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:57:43.515+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:57:43.528+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:43.528+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:57:43.535+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:43.535+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:57:43.553+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T15:58:29.559+0700] {processor.py:157} INFO - Started process (PID=98441) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:58:29.572+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:58:29.573+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:58:29.573+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:58:29.578+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:58:29.590+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:58:29.590+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:58:29.597+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:58:29.597+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:58:29.616+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2025-08-08T15:59:14.665+0700] {processor.py:157} INFO - Started process (PID=98571) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:59:14.671+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:59:14.673+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:14.673+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:59:14.678+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:59:14.691+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:14.691+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:59:14.698+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:14.698+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:59:14.715+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.053 seconds
+[2025-08-08T15:59:50.295+0700] {processor.py:157} INFO - Started process (PID=98675) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:59:50.308+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T15:59:50.309+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:50.308+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:59:50.314+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T15:59:50.326+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:50.326+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:59:50.333+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:50.333+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T15:59:50.351+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.059 seconds
+[2025-08-08T16:00:54.731+0700] {processor.py:157} INFO - Started process (PID=98882) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:00:54.742+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:00:54.746+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:00:54.744+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:00:54.785+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:00:54.869+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:00:54.868+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:00:54.923+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:00:54.922+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:00:55.018+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.302 seconds
+[2025-08-08T16:01:44.089+0700] {processor.py:157} INFO - Started process (PID=99020) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:01:44.102+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:01:44.103+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:01:44.103+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:01:44.108+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:01:44.122+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:01:44.121+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:01:44.130+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:01:44.130+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:01:44.149+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-08-08T16:02:27.379+0700] {processor.py:157} INFO - Started process (PID=99165) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:02:27.392+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:02:27.393+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:27.393+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:02:27.398+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:02:27.411+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:27.411+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:02:27.419+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:27.419+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:02:27.436+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2025-08-08T16:03:15.942+0700] {processor.py:157} INFO - Started process (PID=99293) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:03:15.944+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:03:15.944+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:15.944+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:03:15.949+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:03:15.962+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:15.962+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:03:15.969+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:15.969+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:03:15.987+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.048 seconds
+[2025-08-08T16:03:58.636+0700] {processor.py:157} INFO - Started process (PID=99432) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:03:58.649+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:03:58.650+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:58.649+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:03:58.657+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:03:58.671+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:58.671+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:03:58.679+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:58.678+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:03:58.695+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.061 seconds
+[2025-08-08T16:04:44.217+0700] {processor.py:157} INFO - Started process (PID=99603) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:04:44.218+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:04:44.219+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:04:44.219+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:04:44.225+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:04:44.237+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:04:44.237+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:04:44.245+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:04:44.245+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:04:44.262+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.047 seconds
+[2025-08-08T16:05:26.485+0700] {processor.py:157} INFO - Started process (PID=99723) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:05:26.498+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:05:26.498+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:05:26.498+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:05:26.504+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:05:26.516+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:05:26.516+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:05:26.523+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:05:26.523+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:05:26.541+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T16:06:08.709+0700] {processor.py:157} INFO - Started process (PID=99861) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:06:08.721+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:06:08.722+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:08.722+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:06:08.727+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:06:08.739+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:08.739+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:06:08.747+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:08.746+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:06:08.764+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T16:06:53.942+0700] {processor.py:157} INFO - Started process (PID=100020) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:06:53.943+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:06:53.944+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:53.943+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:06:53.949+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:06:53.963+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:53.963+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:06:53.971+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:53.970+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:06:53.990+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.051 seconds
+[2025-08-08T16:07:41.069+0700] {processor.py:157} INFO - Started process (PID=100175) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:07:41.081+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:07:41.082+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:07:41.082+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:07:41.087+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:07:41.100+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:07:41.099+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:07:41.107+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:07:41.107+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:07:41.124+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.057 seconds
+[2025-08-08T16:08:24.605+0700] {processor.py:157} INFO - Started process (PID=100309) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:08:24.606+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:08:24.607+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:08:24.607+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:08:24.613+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:08:24.626+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:08:24.626+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:08:24.634+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:08:24.634+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:08:24.654+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.052 seconds
+[2025-08-08T16:09:08.094+0700] {processor.py:157} INFO - Started process (PID=100460) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:09:08.096+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:09:08.097+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:08.097+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:09:08.102+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:09:08.117+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:08.117+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:09:08.129+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:08.129+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:09:08.154+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-08-08T16:09:53.338+0700] {processor.py:157} INFO - Started process (PID=100599) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:09:53.350+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:09:53.351+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:53.351+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:09:53.357+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:09:53.370+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:53.370+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:09:53.380+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:53.379+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:09:53.396+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2025-08-08T16:10:35.698+0700] {processor.py:157} INFO - Started process (PID=100731) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:10:35.700+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:10:35.701+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:35.700+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:10:35.706+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:10:35.717+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:35.717+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:10:35.824+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:35.824+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:10:35.855+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.159 seconds
+[2025-08-08T16:11:22.909+0700] {processor.py:157} INFO - Started process (PID=100870) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:11:22.915+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:11:22.916+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:11:22.916+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:11:22.922+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:11:22.933+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:11:22.933+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:11:22.941+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:11:22.941+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:11:22.958+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.052 seconds
+[2025-08-08T16:12:15.109+0700] {processor.py:157} INFO - Started process (PID=101053) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:12:15.122+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:12:15.123+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:15.123+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:12:15.128+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:12:15.140+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:15.140+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:12:15.147+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:15.147+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:12:15.165+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T16:12:58.287+0700] {processor.py:157} INFO - Started process (PID=101193) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:12:58.299+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:12:58.300+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:58.300+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:12:58.306+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:12:58.318+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:58.317+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:12:58.325+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:58.325+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:12:58.342+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T16:13:48.358+0700] {processor.py:157} INFO - Started process (PID=101333) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:13:48.360+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:13:48.361+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:13:48.361+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:13:48.366+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:13:48.476+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:13:48.476+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:13:48.481+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:13:48.481+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:13:48.498+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.142 seconds
+[2025-08-08T16:14:38.438+0700] {processor.py:157} INFO - Started process (PID=101506) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:14:38.451+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:14:38.452+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:38.451+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:14:38.456+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:14:38.469+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:38.469+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:14:38.476+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:38.476+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:14:38.493+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.058 seconds
+[2025-08-08T16:15:27.030+0700] {processor.py:157} INFO - Started process (PID=101658) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:15:27.031+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:15:27.032+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:15:27.032+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:15:27.037+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:15:27.050+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:15:27.049+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:15:27.057+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:15:27.057+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:15:27.074+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.047 seconds
+[2025-08-08T16:16:19.959+0700] {processor.py:157} INFO - Started process (PID=101828) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:16:19.961+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:16:19.963+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:16:19.962+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:16:19.974+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:16:20.006+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:16:20.006+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:16:20.028+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:16:20.028+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:16:20.069+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.117 seconds
+[2025-08-08T16:17:00.867+0700] {processor.py:157} INFO - Started process (PID=101958) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:17:00.870+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-08-08T16:17:00.871+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:17:00.871+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:17:00.880+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-08-08T16:17:00.901+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:17:00.901+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:17:00.915+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:17:00.915+0700] {dag.py:3722} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-08-08T16:17:00.944+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds

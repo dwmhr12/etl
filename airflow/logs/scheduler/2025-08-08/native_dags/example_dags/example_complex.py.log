@@ -1,0 +1,518 @@
+[2025-08-08T15:05:37.256+0700] {processor.py:157} INFO - Started process (PID=88946) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:05:37.257+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:05:37.258+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:05:37.257+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:05:37.268+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:05:37.293+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:05:37.292+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:05:37.303+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:05:37.302+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:05:37.328+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2025-08-08T15:06:32.460+0700] {processor.py:157} INFO - Started process (PID=89117) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:06:32.462+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:06:32.463+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:32.463+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:06:32.478+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:06:32.514+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:32.514+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:06:32.529+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:06:32.528+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:06:32.560+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2025-08-08T15:07:32.174+0700] {processor.py:157} INFO - Started process (PID=89306) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:07:32.176+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:07:32.177+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:07:32.177+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:07:32.184+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:07:32.201+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:07:32.201+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:07:32.209+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:07:32.209+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:07:32.229+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-08-08T15:11:05.734+0700] {processor.py:157} INFO - Started process (PID=89746) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:11:05.773+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:11:05.791+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:11:05.778+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:11:06.129+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:11:05.872+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:11:05.871+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:11:06.076+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:11:06.075+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:11:06.310+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 1.348 seconds
+[2025-08-08T15:12:56.345+0700] {processor.py:157} INFO - Started process (PID=90022) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:12:56.352+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:12:56.359+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:12:56.356+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:12:56.550+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:12:56.949+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:12:56.940+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:12:57.070+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:12:57.069+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:12:57.245+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.934 seconds
+[2025-08-08T15:13:54.014+0700] {processor.py:157} INFO - Started process (PID=90199) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:13:54.018+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:13:54.019+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:13:54.018+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:13:54.026+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:13:54.043+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:13:54.043+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:13:54.050+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:13:54.050+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:13:54.068+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-08-08T15:15:12.544+0700] {processor.py:157} INFO - Started process (PID=90435) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:15:12.551+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:15:12.551+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:12.551+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:15:12.560+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:15:12.581+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:12.580+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:15:12.589+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:15:12.589+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:15:12.612+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.072 seconds
+[2025-08-08T15:16:08.093+0700] {processor.py:157} INFO - Started process (PID=90590) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:16:08.097+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:16:08.099+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:16:08.099+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:16:08.133+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:16:08.208+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:16:08.208+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:16:08.241+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:16:08.240+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:16:08.304+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.221 seconds
+[2025-08-08T15:17:07.012+0700] {processor.py:157} INFO - Started process (PID=90779) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:17:07.015+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:17:07.016+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:07.015+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:17:07.023+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:17:07.040+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:07.040+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:17:07.047+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:07.047+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:17:07.069+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2025-08-08T15:17:53.855+0700] {processor.py:157} INFO - Started process (PID=90943) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:17:53.857+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:17:53.857+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:53.857+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:17:53.866+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:17:53.884+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:53.884+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:17:53.891+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:17:53.891+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:17:53.910+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2025-08-08T15:18:42.418+0700] {processor.py:157} INFO - Started process (PID=91084) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:18:42.425+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:18:42.432+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:42.429+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:18:42.512+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:18:42.770+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:42.769+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:18:42.851+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:18:42.850+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:18:42.985+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.595 seconds
+[2025-08-08T15:19:57.162+0700] {processor.py:157} INFO - Started process (PID=91315) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:19:57.166+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:19:57.170+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:19:57.168+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:19:57.220+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:19:57.325+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:19:57.325+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:19:57.357+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:19:57.356+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:19:57.431+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.281 seconds
+[2025-08-08T15:20:51.120+0700] {processor.py:157} INFO - Started process (PID=91474) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:20:51.122+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:20:51.123+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:20:51.123+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:20:51.137+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:20:51.169+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:20:51.169+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:20:51.184+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:20:51.184+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:20:51.213+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.098 seconds
+[2025-08-08T15:22:05.850+0700] {processor.py:157} INFO - Started process (PID=91677) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:22:05.859+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:22:05.866+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:22:05.864+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:22:05.967+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:22:06.183+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:22:06.182+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:22:06.272+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:22:06.270+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:22:06.635+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.805 seconds
+[2025-08-08T15:23:03.901+0700] {processor.py:157} INFO - Started process (PID=91843) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:23:03.903+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:23:03.904+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:23:03.904+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:23:03.915+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:23:03.941+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:23:03.941+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:23:03.951+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:23:03.951+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:23:03.976+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds
+[2025-08-08T15:24:46.696+0700] {processor.py:157} INFO - Started process (PID=92113) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:24:46.700+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:24:46.702+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:24:46.701+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:24:46.723+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:24:46.775+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:24:46.775+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:24:46.798+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:24:46.798+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:24:46.846+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2025-08-08T15:25:57.501+0700] {processor.py:157} INFO - Started process (PID=92324) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:25:57.504+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:25:57.505+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:25:57.505+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:25:57.522+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:25:57.562+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:25:57.562+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:25:57.581+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:25:57.580+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:25:57.637+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.141 seconds
+[2025-08-08T15:26:53.196+0700] {processor.py:157} INFO - Started process (PID=92482) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:26:53.198+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:26:53.198+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:26:53.198+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:26:53.207+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:26:53.225+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:26:53.225+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:26:53.233+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:26:53.233+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:26:53.250+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2025-08-08T15:27:41.956+0700] {processor.py:157} INFO - Started process (PID=92639) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:27:41.969+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:27:41.970+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:41.969+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:27:41.977+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:27:41.995+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:41.994+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:27:42.002+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:27:42.001+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:27:42.022+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2025-08-08T15:29:01.822+0700] {processor.py:157} INFO - Started process (PID=92841) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:29:01.825+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:29:01.827+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:01.826+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:29:01.847+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:29:01.893+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:01.892+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:29:01.913+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:01.913+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:29:01.961+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.146 seconds
+[2025-08-08T15:29:52.454+0700] {processor.py:157} INFO - Started process (PID=93012) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:29:52.466+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:29:52.467+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:52.467+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:29:52.476+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:29:52.494+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:52.494+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:29:52.502+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:29:52.502+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:29:52.519+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2025-08-08T15:30:48.734+0700] {processor.py:157} INFO - Started process (PID=93200) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:30:48.747+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:30:48.748+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:48.747+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:30:48.756+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:30:48.774+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:48.774+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:30:48.781+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:30:48.781+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:30:48.800+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2025-08-08T15:31:49.667+0700] {processor.py:157} INFO - Started process (PID=93382) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:31:49.680+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:31:49.681+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:31:49.681+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:31:49.688+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:31:49.705+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:31:49.705+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:31:49.713+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:31:49.713+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:31:49.729+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2025-08-08T15:33:10.130+0700] {processor.py:157} INFO - Started process (PID=93598) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:33:10.132+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:33:10.133+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:33:10.132+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:33:10.140+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:33:10.157+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:33:10.157+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:33:10.164+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:33:10.164+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:33:10.181+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-08-08T15:34:03.753+0700] {processor.py:157} INFO - Started process (PID=93784) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:34:03.766+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:34:03.767+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:03.767+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:34:03.775+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:34:03.792+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:03.792+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:34:03.799+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:03.799+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:34:03.817+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-08-08T15:34:48.237+0700] {processor.py:157} INFO - Started process (PID=93924) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:34:48.250+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:34:48.250+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:48.250+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:34:48.258+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:34:48.275+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:48.275+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:34:48.283+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:34:48.283+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:34:48.299+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2025-08-08T15:35:34.079+0700] {processor.py:157} INFO - Started process (PID=94068) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:35:34.081+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:35:34.082+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:35:34.082+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:35:34.100+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:35:34.142+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:35:34.142+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:35:34.160+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:35:34.159+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:35:34.194+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.121 seconds
+[2025-08-08T15:36:27.302+0700] {processor.py:157} INFO - Started process (PID=94270) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:36:27.304+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:36:27.304+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:36:27.304+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:36:27.313+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:36:27.333+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:36:27.333+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:36:27.341+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:36:27.340+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:36:27.358+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2025-08-08T15:37:47.126+0700] {processor.py:157} INFO - Started process (PID=94518) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:37:47.139+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:37:47.139+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:37:47.139+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:37:47.147+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:37:47.165+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:37:47.164+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:37:47.172+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:37:47.172+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:37:47.190+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2025-08-08T15:38:34.168+0700] {processor.py:157} INFO - Started process (PID=94655) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:38:34.180+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:38:34.181+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:38:34.181+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:38:34.189+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:38:34.206+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:38:34.205+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:38:34.214+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:38:34.213+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:38:34.232+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2025-08-08T15:39:37.790+0700] {processor.py:157} INFO - Started process (PID=94839) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:39:37.794+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:39:37.795+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:37.794+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:39:37.802+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:39:37.820+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:37.820+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:39:37.827+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:39:37.827+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:39:37.844+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2025-08-08T15:40:29.567+0700] {processor.py:157} INFO - Started process (PID=95018) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:40:29.572+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:40:29.573+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:40:29.573+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:40:29.581+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:40:29.598+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:40:29.598+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:40:29.606+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:40:29.605+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:40:29.623+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.059 seconds
+[2025-08-08T15:41:32.620+0700] {processor.py:157} INFO - Started process (PID=95197) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:41:32.622+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:41:32.623+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:41:32.622+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:41:32.637+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:41:32.668+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:41:32.668+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:41:32.682+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:41:32.681+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:41:32.714+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2025-08-08T15:42:19.662+0700] {processor.py:157} INFO - Started process (PID=95347) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:42:19.675+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:42:19.676+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:42:19.676+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:42:19.687+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:42:19.712+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:42:19.712+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:42:19.723+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:42:19.723+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:42:19.746+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2025-08-08T15:43:14.388+0700] {processor.py:157} INFO - Started process (PID=95517) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:43:14.389+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:43:14.390+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:14.390+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:43:14.398+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:43:14.415+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:14.415+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:43:14.422+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:43:14.422+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:43:14.440+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-08-08T15:44:00.802+0700] {processor.py:157} INFO - Started process (PID=95681) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:44:00.815+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:44:00.816+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:44:00.816+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:44:00.825+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:44:00.843+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:44:00.842+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:44:00.850+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:44:00.850+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:44:00.868+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2025-08-08T15:45:04.492+0700] {processor.py:157} INFO - Started process (PID=95883) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:45:04.494+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:45:04.495+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:04.495+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:45:04.509+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:45:04.541+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:04.540+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:45:04.554+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:04.554+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:45:04.582+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2025-08-08T15:45:56.308+0700] {processor.py:157} INFO - Started process (PID=96055) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:45:56.321+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:45:56.321+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:56.321+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:45:56.331+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:45:56.353+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:56.353+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:45:56.361+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:45:56.361+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:45:56.378+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2025-08-08T15:46:44.207+0700] {processor.py:157} INFO - Started process (PID=96191) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:46:44.213+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:46:44.214+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:46:44.213+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:46:44.223+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:46:44.250+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:46:44.249+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:46:44.259+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:46:44.259+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:46:44.281+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2025-08-08T15:47:36.440+0700] {processor.py:157} INFO - Started process (PID=96349) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:47:36.453+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:47:36.453+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:47:36.453+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:47:36.461+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:47:36.479+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:47:36.478+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:47:36.486+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:47:36.486+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:47:36.505+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2025-08-08T15:48:21.035+0700] {processor.py:157} INFO - Started process (PID=96512) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:48:21.037+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:48:21.038+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:48:21.037+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:48:21.046+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:48:21.064+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:48:21.064+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:48:21.073+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:48:21.073+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:48:21.092+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.060 seconds
+[2025-08-08T15:49:11.604+0700] {processor.py:157} INFO - Started process (PID=96659) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:49:11.617+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:49:11.618+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:11.617+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:49:11.625+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:49:11.642+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:11.642+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:49:11.649+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:11.649+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:49:11.667+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2025-08-08T15:49:58.285+0700] {processor.py:157} INFO - Started process (PID=96812) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:49:58.300+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:49:58.302+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:58.302+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:49:58.333+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:49:58.365+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:58.365+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:49:58.377+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:49:58.377+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:49:58.418+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.144 seconds
+[2025-08-08T15:50:59.318+0700] {processor.py:157} INFO - Started process (PID=96997) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:50:59.332+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:50:59.335+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:50:59.334+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:50:59.351+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:50:59.378+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:50:59.378+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:50:59.391+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:50:59.390+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:50:59.414+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2025-08-08T15:52:04.103+0700] {processor.py:157} INFO - Started process (PID=97210) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:52:04.106+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:52:04.107+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:52:04.107+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:52:04.120+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:52:04.147+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:52:04.147+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:52:04.160+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:52:04.159+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:52:04.190+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2025-08-08T15:53:08.092+0700] {processor.py:157} INFO - Started process (PID=97393) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:53:08.095+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:53:08.097+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:53:08.096+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:53:08.113+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:53:08.145+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:53:08.145+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:53:08.166+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:53:08.165+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:53:08.201+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.116 seconds
+[2025-08-08T15:54:06.062+0700] {processor.py:157} INFO - Started process (PID=97579) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:54:06.075+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:54:06.076+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:06.076+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:54:06.087+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:54:06.112+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:06.112+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:54:06.124+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:54:06.124+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:54:06.148+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2025-08-08T15:55:08.014+0700] {processor.py:157} INFO - Started process (PID=97790) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:55:08.018+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:55:08.020+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:55:08.019+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:55:08.047+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:55:08.079+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:55:08.079+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:55:08.092+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:55:08.092+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:55:08.123+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.118 seconds
+[2025-08-08T15:56:07.421+0700] {processor.py:157} INFO - Started process (PID=97977) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:56:07.434+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:56:07.435+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:07.435+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:56:07.443+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:56:07.460+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:07.460+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:56:07.467+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:07.467+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:56:07.485+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-08-08T15:56:58.282+0700] {processor.py:157} INFO - Started process (PID=98122) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:56:58.295+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:56:58.296+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:58.295+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:56:58.303+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:56:58.321+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:58.320+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:56:58.328+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:56:58.328+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:56:58.346+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-08-08T15:57:39.649+0700] {processor.py:157} INFO - Started process (PID=98260) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:57:39.662+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:57:39.663+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:39.663+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:57:39.671+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:57:39.688+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:39.688+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:57:39.695+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:57:39.695+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:57:39.713+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-08-08T15:58:25.144+0700] {processor.py:157} INFO - Started process (PID=98397) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:58:25.156+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:58:25.157+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:58:25.157+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:58:25.165+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:58:25.184+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:58:25.183+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:58:25.191+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:58:25.191+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:58:25.208+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2025-08-08T15:59:11.485+0700] {processor.py:157} INFO - Started process (PID=98544) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:59:11.498+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:59:11.499+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:11.499+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:59:11.507+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:59:11.524+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:11.524+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:59:11.532+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:11.531+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:59:11.549+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-08-08T15:59:57.469+0700] {processor.py:157} INFO - Started process (PID=98716) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:59:57.482+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T15:59:57.483+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:57.483+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:59:57.491+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T15:59:57.508+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:57.508+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T15:59:57.515+0700] {logging_mixin.py:154} INFO - [2025-08-08T15:59:57.515+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T15:59:57.533+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2025-08-08T16:01:16.650+0700] {processor.py:157} INFO - Started process (PID=98928) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:01:16.663+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:01:16.664+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:01:16.663+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:01:16.673+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:01:16.696+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:01:16.696+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:01:16.706+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:01:16.706+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:01:16.765+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.117 seconds
+[2025-08-08T16:02:05.402+0700] {processor.py:157} INFO - Started process (PID=99096) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:02:05.404+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:02:05.405+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:05.405+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:02:05.418+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:02:05.437+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:05.437+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:02:05.449+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:05.449+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:02:05.467+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2025-08-08T16:02:51.372+0700] {processor.py:157} INFO - Started process (PID=99237) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:02:51.384+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:02:51.385+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:51.385+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:02:51.393+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:02:51.412+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:51.412+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:02:51.421+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:02:51.421+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:02:51.446+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2025-08-08T16:03:43.784+0700] {processor.py:157} INFO - Started process (PID=99383) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:03:43.797+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:03:43.798+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:43.797+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:03:43.807+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:03:43.824+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:43.824+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:03:43.832+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:03:43.832+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:03:43.849+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2025-08-08T16:04:25.922+0700] {processor.py:157} INFO - Started process (PID=99526) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:04:25.934+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:04:25.935+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:04:25.935+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:04:25.943+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:04:25.962+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:04:25.962+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:04:25.971+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:04:25.971+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:04:25.989+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2025-08-08T16:05:18.445+0700] {processor.py:157} INFO - Started process (PID=99707) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:05:18.447+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:05:18.448+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:05:18.448+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:05:18.457+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:05:18.473+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:05:18.473+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:05:18.481+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:05:18.481+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:05:18.500+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-08-08T16:06:03.211+0700] {processor.py:157} INFO - Started process (PID=99849) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:06:03.212+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:06:03.213+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:03.213+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:06:03.222+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:06:03.240+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:03.240+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:06:03.247+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:03.247+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:06:03.264+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2025-08-08T16:06:47.644+0700] {processor.py:157} INFO - Started process (PID=99996) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:06:47.656+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:06:47.657+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:47.657+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:06:47.665+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:06:47.682+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:47.682+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:06:47.689+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:06:47.689+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:06:47.707+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-08-08T16:07:34.689+0700] {processor.py:157} INFO - Started process (PID=100135) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:07:34.691+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:07:34.692+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:07:34.691+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:07:34.700+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:07:34.717+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:07:34.717+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:07:34.724+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:07:34.724+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:07:34.841+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2025-08-08T16:08:20.046+0700] {processor.py:157} INFO - Started process (PID=100297) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:08:20.048+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:08:20.049+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:08:20.048+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:08:20.058+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:08:20.078+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:08:20.077+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:08:20.086+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:08:20.086+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:08:20.105+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds
+[2025-08-08T16:09:16.252+0700] {processor.py:157} INFO - Started process (PID=100469) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:09:16.254+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:09:16.255+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:16.254+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:09:16.262+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:09:16.281+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:16.281+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:09:16.289+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:09:16.288+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:09:16.306+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.057 seconds
+[2025-08-08T16:10:02.336+0700] {processor.py:157} INFO - Started process (PID=100634) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:10:02.337+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:10:02.338+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:02.337+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:10:02.346+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:10:02.362+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:02.362+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:10:02.370+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:02.370+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:10:02.387+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.054 seconds
+[2025-08-08T16:10:53.673+0700] {processor.py:157} INFO - Started process (PID=100781) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:10:53.686+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:10:53.687+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:53.686+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:10:53.695+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:10:53.712+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:53.712+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:10:53.720+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:10:53.720+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:10:53.737+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2025-08-08T16:11:45.993+0700] {processor.py:157} INFO - Started process (PID=100957) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:11:45.994+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:11:45.995+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:11:45.995+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:11:46.003+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:11:46.020+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:11:46.020+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:11:46.028+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:11:46.028+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:11:46.154+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.164 seconds
+[2025-08-08T16:12:32.985+0700] {processor.py:157} INFO - Started process (PID=101109) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:12:32.998+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:12:32.998+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:32.998+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:12:33.006+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:12:33.023+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:33.023+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:12:33.031+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:12:33.031+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:12:33.048+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2025-08-08T16:13:17.427+0700] {processor.py:157} INFO - Started process (PID=101244) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:13:17.439+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:13:17.440+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:13:17.440+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:13:17.448+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:13:17.465+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:13:17.465+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:13:17.474+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:13:17.473+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:13:17.594+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.169 seconds
+[2025-08-08T16:14:10.126+0700] {processor.py:157} INFO - Started process (PID=101412) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:14:10.127+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:14:10.128+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:10.127+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:14:10.135+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:14:10.152+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:10.152+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:14:10.160+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:10.160+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:14:10.179+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds
+[2025-08-08T16:14:59.095+0700] {processor.py:157} INFO - Started process (PID=101567) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:14:59.107+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:14:59.108+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:59.108+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:14:59.117+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:14:59.139+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:59.138+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:14:59.147+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:14:59.147+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:14:59.166+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.074 seconds
+[2025-08-08T16:15:46.971+0700] {processor.py:157} INFO - Started process (PID=101716) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:15:46.984+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:15:46.985+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:15:46.985+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:15:46.993+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:15:47.014+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:15:47.013+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:15:47.022+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:15:47.022+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:15:47.042+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2025-08-08T16:16:48.508+0700] {processor.py:157} INFO - Started process (PID=101920) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:16:48.521+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T16:16:48.521+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:16:48.521+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:16:48.530+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T16:16:48.550+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:16:48.550+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-08T16:16:48.559+0700] {logging_mixin.py:154} INFO - [2025-08-08T16:16:48.559+0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T16:16:48.580+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds

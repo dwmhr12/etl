@@ -1,0 +1,354 @@
+[2025-08-07T15:45:24.383+0700] {processor.py:157} INFO - Started process (PID=113295) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:45:24.389+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:45:24.395+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:24.393+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:45:24.865+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:45:26.230+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:26.216+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:26.421+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:26.420+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:26.528+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:26.527+0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-08-07T15:45:26.531+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:26.530+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:45:26.705+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:26.703+0700] {dag.py:2963} INFO - Creating ORM DAG for example_params_ui_tutorial
+[2025-08-07T15:45:26.710+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:45:26.709+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:45:27.214+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 2.847 seconds
+[2025-08-07T15:46:34.445+0700] {processor.py:157} INFO - Started process (PID=113659) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:46:34.456+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:46:34.459+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:34.458+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:46:34.540+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:46:34.643+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:34.643+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:46:34.678+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:46:34.678+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:46:33.548+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.307 seconds
+[2025-08-07T15:47:30.740+0700] {processor.py:157} INFO - Started process (PID=113958) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:47:30.744+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:47:30.748+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:30.746+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:47:30.881+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:47:31.035+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:31.035+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:47:31.069+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:47:31.069+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:47:31.157+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.433 seconds
+[2025-08-07T15:48:19.567+0700] {processor.py:157} INFO - Started process (PID=114198) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:48:19.574+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:48:19.576+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:19.575+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:48:19.621+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:48:19.692+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:19.692+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:48:19.714+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:48:19.714+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:48:19.758+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.196 seconds
+[2025-08-07T15:49:12.466+0700] {processor.py:157} INFO - Started process (PID=114491) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:49:12.474+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:49:12.477+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:12.476+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:49:12.724+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:49:12.880+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:12.880+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:49:12.917+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:49:12.917+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:49:13.000+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.545 seconds
+[2025-08-07T15:50:32.046+0700] {processor.py:157} INFO - Started process (PID=114914) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:50:32.051+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:50:32.054+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:50:32.052+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:50:32.156+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:50:32.327+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:50:32.326+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:50:32.364+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:50:32.364+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:50:32.461+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.426 seconds
+[2025-08-07T15:51:41.133+0700] {processor.py:157} INFO - Started process (PID=115273) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:51:41.137+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:51:41.138+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:41.137+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:51:41.189+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:51:41.271+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:41.270+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:51:41.290+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:51:41.290+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:51:41.333+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.206 seconds
+[2025-08-07T15:53:22.652+0700] {processor.py:157} INFO - Started process (PID=115729) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:53:22.659+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:53:22.660+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:22.660+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:53:22.684+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:53:22.721+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:22.721+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:53:22.733+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:53:22.733+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:53:22.762+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.113 seconds
+[2025-08-07T15:55:00.790+0700] {processor.py:157} INFO - Started process (PID=116208) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:55:00.795+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:55:00.796+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:00.796+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:55:00.828+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:55:00.872+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:00.872+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:55:00.886+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:55:00.886+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:55:00.914+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.127 seconds
+[2025-08-07T15:56:12.530+0700] {processor.py:157} INFO - Started process (PID=116588) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:56:12.533+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:56:12.536+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:12.534+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:56:12.627+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:56:12.744+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:12.744+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:56:12.776+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:56:12.775+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:56:12.837+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.318 seconds
+[2025-08-07T15:57:23.903+0700] {processor.py:157} INFO - Started process (PID=116963) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:57:23.958+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:57:23.984+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:23.971+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:57:24.542+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:57:24.944+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:24.942+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:57:24.999+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:57:24.998+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:57:25.111+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 1.358 seconds
+[2025-08-07T15:59:54.507+0700] {processor.py:157} INFO - Started process (PID=117727) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:59:54.517+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T15:59:54.523+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:59:54.521+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:59:54.811+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T15:59:55.214+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:59:55.213+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T15:59:55.296+0700] {logging_mixin.py:154} INFO - [2025-08-07T15:59:55.295+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T15:59:55.512+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 1.042 seconds
+[2025-08-07T16:01:24.802+0700] {processor.py:157} INFO - Started process (PID=118167) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:01:24.809+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:01:24.812+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:01:24.811+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:01:25.015+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:01:25.296+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:01:25.296+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:01:25.338+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:01:25.337+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:01:25.673+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.902 seconds
+[2025-08-07T16:04:05.821+0700] {processor.py:157} INFO - Started process (PID=118907) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:04:05.828+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:04:05.832+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:05.831+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:04:06.118+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:04:06.440+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:06.439+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:04:06.489+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:04:06.489+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:04:06.596+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.791 seconds
+[2025-08-07T16:05:11.831+0700] {processor.py:157} INFO - Started process (PID=119214) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:05:11.832+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:05:11.834+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:11.833+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:05:11.870+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:05:11.916+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:11.916+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:05:11.929+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:05:11.928+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:05:11.972+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.145 seconds
+[2025-08-07T16:06:29.233+0700] {processor.py:157} INFO - Started process (PID=119607) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:06:29.237+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:06:29.240+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:29.239+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:06:29.359+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:06:29.476+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:29.475+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:06:29.509+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:06:29.508+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:06:29.573+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.352 seconds
+[2025-08-07T16:07:35.004+0700] {processor.py:157} INFO - Started process (PID=119950) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:07:35.008+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:07:35.012+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:35.011+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:07:35.161+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:07:35.590+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:35.588+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:07:35.704+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:07:35.703+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:07:35.878+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.889 seconds
+[2025-08-07T16:08:55.478+0700] {processor.py:157} INFO - Started process (PID=120334) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:08:55.480+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:08:55.481+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:08:55.481+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:08:55.536+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:08:55.611+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:08:55.611+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:08:55.632+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:08:55.632+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:08:55.674+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.202 seconds
+[2025-08-07T16:10:09.615+0700] {processor.py:157} INFO - Started process (PID=120684) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:10:09.617+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:10:09.619+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:09.618+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:10:09.667+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:10:09.735+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:09.735+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:10:09.756+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:10:09.755+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:10:09.817+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.209 seconds
+[2025-08-07T16:11:04.308+0700] {processor.py:157} INFO - Started process (PID=120981) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:11:04.318+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:11:04.322+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:04.320+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:11:04.501+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:11:04.779+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:04.774+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:11:04.875+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:11:04.874+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:11:05.049+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.758 seconds
+[2025-08-07T16:12:06.750+0700] {processor.py:157} INFO - Started process (PID=121302) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:12:06.754+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:12:06.755+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:06.755+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:12:06.801+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:12:06.867+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:06.867+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:12:06.883+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:06.882+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:12:06.922+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.177 seconds
+[2025-08-07T16:12:56.350+0700] {processor.py:157} INFO - Started process (PID=121579) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:12:56.354+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:12:56.357+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:56.356+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:12:56.502+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:12:56.698+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:56.697+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:12:56.745+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:12:56.744+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:12:56.837+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.501 seconds
+[2025-08-07T16:13:41.874+0700] {processor.py:157} INFO - Started process (PID=121793) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:13:41.877+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:13:41.879+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:41.878+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:13:41.940+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:13:42.059+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:42.058+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:13:42.087+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:13:42.087+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:13:42.145+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.278 seconds
+[2025-08-07T16:14:36.482+0700] {processor.py:157} INFO - Started process (PID=122079) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:14:36.488+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:14:36.492+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:36.490+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:14:36.645+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:14:36.853+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:36.852+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:14:36.900+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:14:36.899+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:14:36.988+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.524 seconds
+[2025-08-07T16:15:46.834+0700] {processor.py:157} INFO - Started process (PID=122471) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:15:46.839+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:15:46.848+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:46.841+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:15:46.941+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:15:47.125+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:47.125+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:15:47.163+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:15:47.162+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:15:46.022+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.413 seconds
+[2025-08-07T16:16:50.249+0700] {processor.py:157} INFO - Started process (PID=122789) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:16:50.252+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:16:50.254+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:16:50.253+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:16:50.322+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:16:50.424+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:16:50.423+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:16:50.451+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:16:50.451+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:16:50.511+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.270 seconds
+[2025-08-07T16:17:52.934+0700] {processor.py:157} INFO - Started process (PID=123086) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:17:52.939+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:17:52.943+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:17:52.941+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:17:53.092+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:17:53.303+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:17:53.302+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:17:53.353+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:17:53.352+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:17:53.449+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.532 seconds
+[2025-08-07T16:18:47.620+0700] {processor.py:157} INFO - Started process (PID=123378) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:18:47.623+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:18:47.624+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:47.624+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:18:47.643+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:18:47.670+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:47.670+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:18:47.679+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:18:47.678+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:18:47.697+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.080 seconds
+[2025-08-07T16:27:09.861+0700] {processor.py:157} INFO - Started process (PID=125512) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:27:09.863+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:27:09.864+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:09.864+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:27:09.887+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:27:09.921+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:09.921+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:27:09.931+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:27:09.931+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:27:10.053+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.196 seconds
+[2025-08-07T16:28:31.948+0700] {processor.py:157} INFO - Started process (PID=125871) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:28:31.950+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:28:31.951+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:31.951+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:28:31.975+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:28:32.009+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:32.009+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:28:32.019+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:28:32.018+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:28:32.049+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.104 seconds
+[2025-08-07T16:29:28.092+0700] {processor.py:157} INFO - Started process (PID=126154) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:29:28.094+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:29:28.095+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:28.094+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:29:28.122+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:29:28.277+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:28.277+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:29:28.286+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:29:28.285+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:29:28.322+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.234 seconds
+[2025-08-07T16:30:26.779+0700] {processor.py:157} INFO - Started process (PID=126442) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:30:26.781+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:30:26.783+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:26.782+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:30:26.830+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:30:26.895+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:26.894+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:30:26.912+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:30:26.911+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:30:26.946+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.173 seconds
+[2025-08-07T16:31:26.140+0700] {processor.py:157} INFO - Started process (PID=126744) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:31:26.143+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:31:26.144+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:26.144+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:31:26.234+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:31:26.385+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:26.384+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:31:26.424+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:31:26.424+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:31:26.492+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.360 seconds
+[2025-08-07T16:33:10.936+0700] {processor.py:157} INFO - Started process (PID=127178) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:33:10.942+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:33:10.951+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:10.949+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:33:11.093+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:33:11.248+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:11.247+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:33:11.292+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:33:11.292+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:33:11.384+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.460 seconds
+[2025-08-07T16:34:42.798+0700] {processor.py:157} INFO - Started process (PID=127545) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:34:42.803+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:34:42.804+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:34:42.804+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:34:42.829+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:34:42.866+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:34:42.866+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:34:42.876+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:34:42.876+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:34:42.906+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.111 seconds
+[2025-08-07T16:35:36.753+0700] {processor.py:157} INFO - Started process (PID=127778) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:35:36.757+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:35:36.758+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:36.758+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:35:36.779+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:35:36.810+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:36.810+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:35:36.819+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:35:36.819+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:35:36.839+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.089 seconds
+[2025-08-07T16:36:29.845+0700] {processor.py:157} INFO - Started process (PID=128002) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:36:29.848+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:36:29.849+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:29.848+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:36:29.896+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:36:29.960+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:29.960+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:36:29.976+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:36:29.976+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:36:30.007+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.168 seconds
+[2025-08-07T16:37:33.094+0700] {processor.py:157} INFO - Started process (PID=128278) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:37:33.100+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:37:33.103+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:33.102+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:37:33.180+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:37:33.301+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:33.300+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:37:33.329+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:37:33.329+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:37:33.385+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.302 seconds
+[2025-08-07T16:38:37.511+0700] {processor.py:157} INFO - Started process (PID=128548) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:38:37.517+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:38:37.523+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:37.520+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:38:37.727+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:38:38.304+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:38.302+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:38:38.404+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:38:38.403+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:38:38.581+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 1.093 seconds
+[2025-08-07T16:39:31.286+0700] {processor.py:157} INFO - Started process (PID=128760) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:39:31.290+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:39:31.292+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:39:31.291+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:39:31.383+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:39:31.494+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:39:31.494+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:39:31.532+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:39:31.531+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:39:31.591+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.317 seconds
+[2025-08-07T16:40:45.868+0700] {processor.py:157} INFO - Started process (PID=129035) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:40:45.870+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:40:45.872+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:45.871+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:40:45.907+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:40:45.949+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:45.949+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:40:45.960+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:40:45.960+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:40:45.991+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.127 seconds
+[2025-08-07T16:41:39.695+0700] {processor.py:157} INFO - Started process (PID=129285) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:41:39.704+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:41:39.706+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:39.705+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:41:39.763+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:41:39.847+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:39.846+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:41:39.869+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:41:39.869+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:41:39.914+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.226 seconds
+[2025-08-07T16:42:24.348+0700] {processor.py:157} INFO - Started process (PID=129485) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:42:24.350+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:42:24.351+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:24.351+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:42:24.381+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:42:24.430+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:24.429+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:42:24.446+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:42:24.446+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:42:24.483+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.139 seconds
+[2025-08-07T16:43:19.243+0700] {processor.py:157} INFO - Started process (PID=129702) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:43:19.251+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:43:19.253+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:19.252+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:43:19.339+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:43:19.461+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:19.460+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:43:19.486+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:43:19.486+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:43:19.540+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.304 seconds
+[2025-08-07T16:44:11.388+0700] {processor.py:157} INFO - Started process (PID=129910) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:44:11.392+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:44:11.395+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:11.394+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:44:11.467+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:44:11.567+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:11.567+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:44:11.594+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:44:11.593+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:44:11.650+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.272 seconds
+[2025-08-07T16:45:12.979+0700] {processor.py:157} INFO - Started process (PID=130203) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:45:12.981+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:45:12.981+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:12.981+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:45:13.003+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:45:13.033+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:13.033+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:45:13.041+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:45:13.041+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:45:13.057+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.081 seconds
+[2025-08-07T16:46:25.363+0700] {processor.py:157} INFO - Started process (PID=130516) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:46:25.368+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:46:25.373+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:46:25.371+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:46:25.526+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:46:25.690+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:46:25.689+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:46:25.743+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:46:25.742+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:46:25.858+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.510 seconds
+[2025-08-07T16:47:27.619+0700] {processor.py:157} INFO - Started process (PID=130796) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:47:27.624+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:47:27.626+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:27.625+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:47:27.660+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:47:27.710+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:27.710+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:47:27.724+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:47:27.724+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:47:27.752+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.138 seconds
+[2025-08-07T16:48:09.467+0700] {processor.py:157} INFO - Started process (PID=130982) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:48:09.485+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:48:09.493+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:09.490+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:48:09.855+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:48:10.194+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:10.193+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:48:10.246+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:48:10.245+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:48:10.390+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.981 seconds
+[2025-08-07T16:49:07.924+0700] {processor.py:157} INFO - Started process (PID=131230) to work on /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:49:07.937+0700] {processor.py:829} INFO - Processing file /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-08-07T16:49:07.938+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:49:07.938+0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:49:07.970+0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_ui_tutorial']) retrieved from /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-08-07T16:49:08.016+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:49:08.016+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-08-07T16:49:08.028+0700] {logging_mixin.py:154} INFO - [2025-08-07T16:49:08.028+0700] {dag.py:3722} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-08-07T16:49:08.069+0700] {processor.py:179} INFO - Processing /home/dwmhr/pln/venv/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.149 seconds
